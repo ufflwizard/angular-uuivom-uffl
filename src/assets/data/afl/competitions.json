@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "providerId": "CD_C014",
+    "code": "AFL",
+    "name": "Toyota AFL Premiership"
+  },
+  {
+    "id": 2,
+    "providerId": "CD_C101",
+    "code": "AFL",
+    "name": "AAMI Community Series"
+  },
+  { "id": 3, "providerId": "CD_C264", "code": "AFLW", "name": "AFL Women's" },
+  {
+    "id": 4,
+    "providerId": "CD_C584",
+    "code": "U18B",
+    "name": "NAB League Boys"
+  },
+  {
+    "id": 5,
+    "providerId": "CD_C574",
+    "code": "U18G",
+    "name": "NAB League Girls (Legacy)"
+  },
+  {
+    "id": 6,
+    "providerId": "CD_C644",
+    "code": "U18G",
+    "name": "NAB League Girls"
+  },
+  { "id": 7, "providerId": "CD_C015", "name": "" },
+  { "id": 8, "providerId": "CD_C136", "name": "" },
+  {
+    "id": 9,
+    "providerId": "CD_C664",
+    "code": "AFL",
+    "name": "State of Origin"
+  },
+  { "id": 10, "providerId": "CD_C011", "name": "" }
+]

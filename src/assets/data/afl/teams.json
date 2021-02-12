@@ -1,0 +1,903 @@
+[
+  {
+    "id": 1,
+    "providerId": "CD_T10",
+    "name": "Adelaide Crows",
+    "abbreviation": "ADEL",
+    "nickname": "Crows",
+    "club": {
+      "id": 3,
+      "providerId": "CD_O1",
+      "name": "Adelaide Crows",
+      "abbreviation": "Crows",
+      "nickname": "Crows"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 2,
+    "providerId": "CD_T20",
+    "name": "Brisbane Lions",
+    "abbreviation": "BL",
+    "nickname": "Lions",
+    "club": {
+      "id": 13,
+      "providerId": "CD_O3",
+      "name": "Brisbane Lions",
+      "abbreviation": "Lions",
+      "nickname": "Lions"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 3,
+    "providerId": "CD_T40",
+    "name": "Collingwood",
+    "abbreviation": "COLL",
+    "nickname": "Magpies",
+    "club": {
+      "id": 12,
+      "providerId": "CD_O6",
+      "name": "Collingwood",
+      "abbreviation": "Magpies",
+      "nickname": "Magpies"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 4,
+    "providerId": "CD_T1000",
+    "name": "Gold Coast Suns",
+    "abbreviation": "GCFC",
+    "nickname": "Suns",
+    "club": {
+      "id": 9,
+      "providerId": "CD_O14",
+      "name": "Gold Coast Suns",
+      "abbreviation": "Suns",
+      "nickname": "Suns"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 5,
+    "providerId": "CD_T30",
+    "name": "Carlton",
+    "abbreviation": "CARL",
+    "nickname": "Blues",
+    "club": {
+      "id": 1,
+      "providerId": "CD_O5",
+      "name": "Carlton",
+      "abbreviation": "Blues",
+      "nickname": "Blues"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 6,
+    "providerId": "CD_T100",
+    "name": "North Melbourne",
+    "abbreviation": "NMFC",
+    "nickname": "Kangaroos",
+    "club": {
+      "id": 20,
+      "providerId": "CD_O20",
+      "name": "North Melbourne",
+      "abbreviation": "Kangaroos",
+      "nickname": "Kangaroos"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 7,
+    "providerId": "CD_T110",
+    "name": "Port Adelaide",
+    "abbreviation": "PORT",
+    "nickname": "Power",
+    "club": {
+      "id": 19,
+      "providerId": "CD_O24",
+      "name": "Port Adelaide",
+      "abbreviation": "Power",
+      "nickname": "Power"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 8,
+    "providerId": "CD_T140",
+    "name": "Western Bulldogs",
+    "abbreviation": "WB",
+    "nickname": "Bulldogs",
+    "club": {
+      "id": 25,
+      "providerId": "CD_O31",
+      "name": "Western Bulldogs",
+      "abbreviation": "Bulldogs",
+      "nickname": "Bulldogs"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 9,
+    "providerId": "CD_T80",
+    "name": "Hawthorn",
+    "abbreviation": "HAW",
+    "nickname": "Hawks",
+    "club": {
+      "id": 16,
+      "providerId": "CD_O17",
+      "name": "Hawthorn",
+      "abbreviation": "Hawks",
+      "nickname": "Hawks"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 10,
+    "providerId": "CD_T70",
+    "name": "Geelong Cats",
+    "abbreviation": "GEEL",
+    "nickname": "Cats",
+    "club": {
+      "id": 15,
+      "providerId": "CD_O11",
+      "name": "Geelong Cats",
+      "abbreviation": "Cats",
+      "nickname": "Cats"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 11,
+    "providerId": "CD_T130",
+    "name": "St Kilda",
+    "abbreviation": "STK",
+    "nickname": "Saints",
+    "club": {
+      "id": 21,
+      "providerId": "CD_O27",
+      "name": "St Kilda",
+      "abbreviation": "Saints",
+      "nickname": "Saints"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 12,
+    "providerId": "CD_T50",
+    "name": "Essendon",
+    "abbreviation": "ESS",
+    "nickname": "Bombers",
+    "club": {
+      "id": 10,
+      "providerId": "CD_O9",
+      "name": "Essendon",
+      "abbreviation": "Bombers",
+      "nickname": "Bombers"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 13,
+    "providerId": "CD_T160",
+    "name": "Sydney Swans",
+    "abbreviation": "SYD",
+    "nickname": "Swans",
+    "club": {
+      "id": 24,
+      "providerId": "CD_O28",
+      "name": "Sydney Swans",
+      "abbreviation": "Swans",
+      "nickname": "Swans"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 14,
+    "providerId": "CD_T60",
+    "name": "Fremantle",
+    "abbreviation": "FRE",
+    "nickname": "Dockers",
+    "club": {
+      "id": 6,
+      "providerId": "CD_O10",
+      "name": "Fremantle",
+      "abbreviation": "Dockers",
+      "nickname": "Dockers"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 15,
+    "providerId": "CD_T1010",
+    "name": "GWS Giants",
+    "abbreviation": "GWS",
+    "nickname": "Giants",
+    "club": {
+      "id": 5,
+      "providerId": "CD_O16",
+      "name": "GWS Giants",
+      "abbreviation": "Giants",
+      "nickname": "Giants"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 16,
+    "providerId": "CD_T120",
+    "name": "Richmond",
+    "abbreviation": "RICH",
+    "nickname": "Tigers",
+    "club": {
+      "id": 22,
+      "providerId": "CD_O25",
+      "name": "Richmond",
+      "abbreviation": "Tigers",
+      "nickname": "Tigers"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 17,
+    "providerId": "CD_T90",
+    "name": "Melbourne",
+    "abbreviation": "MELB",
+    "nickname": "Demons",
+    "club": {
+      "id": 14,
+      "providerId": "CD_O18",
+      "name": "Melbourne",
+      "abbreviation": "Demons",
+      "nickname": "Demons"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 18,
+    "providerId": "CD_T150",
+    "name": "West Coast Eagles",
+    "abbreviation": "WCE",
+    "nickname": "Eagles",
+    "club": {
+      "id": 23,
+      "providerId": "CD_O30",
+      "name": "West Coast Eagles",
+      "abbreviation": "Eagles",
+      "nickname": "Eagles"
+    },
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 19,
+    "providerId": "CD_T8098",
+    "name": "Adelaide Crows",
+    "abbreviation": "ADEL",
+    "nickname": "Crows",
+    "club": {
+      "id": 3,
+      "providerId": "CD_O1",
+      "name": "Adelaide Crows",
+      "abbreviation": "Crows",
+      "nickname": "Crows"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 20,
+    "providerId": "CD_T1509",
+    "name": "Brisbane Lions",
+    "abbreviation": "BLFC",
+    "nickname": "Lions",
+    "club": {
+      "id": 13,
+      "providerId": "CD_O3",
+      "name": "Brisbane Lions",
+      "abbreviation": "Lions",
+      "nickname": "Lions"
+    },
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 21,
+    "providerId": "CD_T7887",
+    "name": "Brisbane Lions",
+    "abbreviation": "BL",
+    "nickname": "Lions",
+    "club": {
+      "id": 13,
+      "providerId": "CD_O3",
+      "name": "Brisbane Lions",
+      "abbreviation": "Lions",
+      "nickname": "Lions"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 22,
+    "providerId": "CD_T8096",
+    "name": "Carlton",
+    "abbreviation": "CARL",
+    "nickname": "Blues",
+    "club": {
+      "id": 1,
+      "providerId": "CD_O5",
+      "name": "Carlton",
+      "abbreviation": "Blues",
+      "nickname": "Blues"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 23,
+    "providerId": "CD_T1510",
+    "name": "Gold Coast Suns",
+    "abbreviation": "GCFC",
+    "nickname": "Suns",
+    "club": {
+      "id": 9,
+      "providerId": "CD_O14",
+      "name": "Gold Coast Suns",
+      "abbreviation": "Suns",
+      "nickname": "Suns"
+    },
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 24,
+    "providerId": "CD_T8097",
+    "name": "Collingwood",
+    "abbreviation": "COLL",
+    "nickname": "Magpies",
+    "club": {
+      "id": 12,
+      "providerId": "CD_O6",
+      "name": "Collingwood",
+      "abbreviation": "Magpies",
+      "nickname": "Magpies"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 25,
+    "providerId": "CD_T7886",
+    "name": "Fremantle",
+    "abbreviation": "FRE",
+    "nickname": "Dockers",
+    "club": {
+      "id": 6,
+      "providerId": "CD_O10",
+      "name": "Fremantle",
+      "abbreviation": "Dockers",
+      "nickname": "Dockers"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 26,
+    "providerId": "CD_T8467",
+    "name": "Geelong Cats",
+    "abbreviation": "GEEL",
+    "nickname": "Cats",
+    "club": {
+      "id": 15,
+      "providerId": "CD_O11",
+      "name": "Geelong Cats",
+      "abbreviation": "Cats",
+      "nickname": "Cats"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 27,
+    "providerId": "CD_T1523",
+    "name": "GWS Giants",
+    "abbreviation": "GWSFC",
+    "nickname": "Giants",
+    "club": {
+      "id": 5,
+      "providerId": "CD_O16",
+      "name": "GWS Giants",
+      "abbreviation": "Giants",
+      "nickname": "Giants"
+    },
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 28,
+    "providerId": "CD_T7889",
+    "name": "GWS Giants",
+    "abbreviation": "GWS",
+    "nickname": "Giants",
+    "club": {
+      "id": 5,
+      "providerId": "CD_O16",
+      "name": "GWS Giants",
+      "abbreviation": "Giants",
+      "nickname": "Giants"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 29,
+    "providerId": "CD_T7386",
+    "name": "Melbourne",
+    "abbreviation": "MELB",
+    "nickname": "Demons",
+    "club": {
+      "id": 14,
+      "providerId": "CD_O18",
+      "name": "Melbourne",
+      "abbreviation": "Demons",
+      "nickname": "Demons"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 30,
+    "providerId": "CD_T8466",
+    "name": "Kangaroos",
+    "abbreviation": "NMFC",
+    "nickname": "Kangaroos",
+    "club": {
+      "id": 20,
+      "providerId": "CD_O20",
+      "name": "North Melbourne",
+      "abbreviation": "Kangaroos",
+      "nickname": "Kangaroos"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 31,
+    "providerId": "CD_T1525",
+    "name": "Sydney Swans",
+    "abbreviation": "SSFC",
+    "nickname": "Swans",
+    "club": {
+      "id": 24,
+      "providerId": "CD_O28",
+      "name": "Sydney Swans",
+      "abbreviation": "Swans",
+      "nickname": "Swans"
+    },
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 32,
+    "providerId": "CD_T7387",
+    "name": "Western Bulldogs",
+    "abbreviation": "WB",
+    "nickname": "Bulldogs",
+    "club": {
+      "id": 25,
+      "providerId": "CD_O31",
+      "name": "Western Bulldogs",
+      "abbreviation": "Bulldogs",
+      "nickname": "Bulldogs"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 33,
+    "providerId": "CD_T8786",
+    "name": "Gold Coast Suns",
+    "abbreviation": "GCFC",
+    "nickname": "Suns",
+    "club": {
+      "id": 9,
+      "providerId": "CD_O14",
+      "name": "Gold Coast Suns",
+      "abbreviation": "Suns",
+      "nickname": "Suns"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 34,
+    "providerId": "CD_T8788",
+    "name": "Richmond",
+    "abbreviation": "RICH",
+    "nickname": "Richmond",
+    "club": {
+      "id": 22,
+      "providerId": "CD_O25",
+      "name": "Richmond",
+      "abbreviation": "Tigers",
+      "nickname": "Tigers"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 35,
+    "providerId": "CD_T8787",
+    "name": "West Coast Eagles",
+    "abbreviation": "WCE",
+    "nickname": "West Coast Eagles",
+    "club": {
+      "id": 23,
+      "providerId": "CD_O30",
+      "name": "West Coast Eagles",
+      "abbreviation": "Eagles",
+      "nickname": "Eagles"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 36,
+    "providerId": "CD_T8796",
+    "name": "St Kilda",
+    "abbreviation": "STK",
+    "nickname": "St Kilda",
+    "club": {
+      "id": 21,
+      "providerId": "CD_O27",
+      "name": "St Kilda",
+      "abbreviation": "Saints",
+      "nickname": "Saints"
+    },
+    "metadata": {},
+    "teamType": "WOMEN"
+  },
+  {
+    "id": 37,
+    "providerId": "CD_T171",
+    "name": "Calder Cannons",
+    "abbreviation": "CCFC",
+    "nickname": "Cannons",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 38,
+    "providerId": "CD_T172",
+    "name": "Dandenong Stingrays",
+    "abbreviation": "DSFC",
+    "nickname": "Stingrays",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 39,
+    "providerId": "CD_T170",
+    "name": "Bendigo Pioneers",
+    "abbreviation": "BPFC",
+    "nickname": "Pioneers",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 40,
+    "providerId": "CD_T177",
+    "name": "GWV Rebels",
+    "abbreviation": "GWVRFC",
+    "nickname": "Rebels",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 41,
+    "providerId": "CD_T174",
+    "name": "Geelong Falcons",
+    "abbreviation": "GFFC",
+    "nickname": "Falcons",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 42,
+    "providerId": "CD_T173",
+    "name": "Eastern Ranges",
+    "abbreviation": "ERFC",
+    "nickname": "Ranges",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 43,
+    "providerId": "CD_T175",
+    "name": "Gippsland Power",
+    "abbreviation": "GPFC",
+    "nickname": "Power",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 44,
+    "providerId": "CD_T176",
+    "name": "Murray Bushrangers",
+    "abbreviation": "MBFC",
+    "nickname": "Bushrangers",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 45,
+    "providerId": "CD_T185",
+    "name": "Northern Territory Thunder",
+    "abbreviation": "NTFC",
+    "nickname": "Thunder",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 46,
+    "providerId": "CD_T178",
+    "name": "Northern Knights",
+    "abbreviation": "NKFC",
+    "nickname": "Knights",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 47,
+    "providerId": "CD_T179",
+    "name": "Oakleigh Chargers",
+    "abbreviation": "OCFC",
+    "nickname": "Chargers",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 48,
+    "providerId": "CD_T182",
+    "name": "Western Jets",
+    "abbreviation": "WJFC",
+    "nickname": "Jets",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 49,
+    "providerId": "CD_T8591",
+    "name": "Eastern Ranges",
+    "abbreviation": "ERFC",
+    "nickname": "Ranges",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 50,
+    "providerId": "CD_T8586",
+    "name": "Bendigo Pioneers",
+    "abbreviation": "BPFC",
+    "nickname": "Pioneers",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 51,
+    "providerId": "CD_T8588",
+    "name": "Geelong Falcons",
+    "abbreviation": "GFFC",
+    "nickname": "Falcons",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 52,
+    "providerId": "CD_T180",
+    "name": "Sandringham Dragons",
+    "abbreviation": "SDFC",
+    "nickname": "Dragons",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 53,
+    "providerId": "CD_T8594",
+    "name": "Oakleigh Chargers",
+    "abbreviation": "OCFC",
+    "nickname": "Chargers",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 54,
+    "providerId": "CD_T8606",
+    "name": "Tasmania Devils",
+    "abbreviation": "TDFC",
+    "nickname": "Devils",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 55,
+    "providerId": "CD_T8589",
+    "name": "Calder Cannons",
+    "abbreviation": "CCFC",
+    "nickname": "Cannons",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 56,
+    "providerId": "CD_T181",
+    "name": "Tasmania Devils",
+    "abbreviation": "TDFC",
+    "nickname": "Devils",
+    "metadata": {},
+    "teamType": "U18_BOYS"
+  },
+  {
+    "id": 57,
+    "providerId": "CD_T8590",
+    "name": "Dandenong Stingrays",
+    "abbreviation": "DSFC",
+    "nickname": "Stingrays",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 58,
+    "providerId": "CD_T8587",
+    "name": "Northern Knights",
+    "abbreviation": "NKFC",
+    "nickname": "Knights",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 59,
+    "providerId": "CD_T8598",
+    "name": "GWV Rebels",
+    "abbreviation": "GWVRFC",
+    "nickname": "Rebels",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 60,
+    "providerId": "CD_T8592",
+    "name": "Gippsland Power",
+    "abbreviation": "GPFC",
+    "nickname": "Power",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 61,
+    "providerId": "CD_T8596",
+    "name": "Western Jets",
+    "abbreviation": "WJFC",
+    "nickname": "Jets",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 62,
+    "providerId": "CD_T8593",
+    "name": "Murray Bushrangers",
+    "abbreviation": "MBFC",
+    "nickname": "Bushrangers",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 63,
+    "providerId": "CD_T8595",
+    "name": "Sandringham Dragons",
+    "abbreviation": "SDFC",
+    "nickname": "Dragons",
+    "metadata": {},
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 64,
+    "providerId": "CD_T8897",
+    "name": "Brisbane U18 Academy Womans",
+    "abbreviation": "BRI",
+    "nickname": "Brisbane",
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 65,
+    "providerId": "CD_T8896",
+    "name": "Gold Coast U18 Academy Womans",
+    "abbreviation": "GCS",
+    "nickname": "Gold Coast",
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 66,
+    "providerId": "CD_T8898",
+    "name": "Northern Territory U18 Womans Football Club",
+    "abbreviation": "NTFC",
+    "nickname": "Northern Territory",
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 67,
+    "providerId": "CD_T8906",
+    "name": "Victoria",
+    "abbreviation": "VIC",
+    "nickname": "Victoria",
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 68,
+    "providerId": "CD_T8907",
+    "name": "All Stars",
+    "abbreviation": "ALLS",
+    "nickname": "All Stars",
+    "metadata": {},
+    "teamType": "MEN"
+  },
+  {
+    "id": 69,
+    "providerId": "CD_T9106",
+    "name": "GWS Giants U18 Academy Womans",
+    "abbreviation": "GWS",
+    "nickname": "GWS Giants U18 Academy Womans",
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 70,
+    "providerId": "CD_T9107",
+    "name": "Northern Territory U18 Womans Football Club",
+    "abbreviation": "NTU18W",
+    "nickname": "Northern Territory U18 Womans Football Club",
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 71,
+    "providerId": "CD_T9108",
+    "name": "Sydney U18 Academy Womans",
+    "abbreviation": "SYD",
+    "nickname": "Sydney U18 Academy Womans",
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 72,
+    "providerId": "CD_T9097",
+    "name": "GWS Giants U18 Academy Womans",
+    "abbreviation": "GWS",
+    "nickname": "GWS Giants U18 Academy Womans",
+    "teamType": "U18_GIRLS"
+  },
+  {
+    "id": 73,
+    "providerId": "CD_T9096",
+    "name": "Sydney U18 Academy Womans",
+    "abbreviation": "SYD",
+    "nickname": "Sydney U18 Academy Womans",
+    "teamType": "U18_GIRLS"
+  }
+]

@@ -1,0 +1,1080 @@
+[
+  {
+    "id": 1,
+    "providerId": "CD_V160",
+    "name": "TIO Stadium",
+    "abbreviation": "TIO",
+    "location": "Darwin",
+    "state": "NT",
+    "timezone": "Australia/Darwin"
+  },
+  {
+    "id": 2,
+    "providerId": "CD_V181",
+    "name": "Cazaly's Stadium",
+    "abbreviation": "CS",
+    "location": "Cairns",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 3,
+    "providerId": "CD_V190",
+    "name": "Marvel Stadium",
+    "abbreviation": "MRVL",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 4,
+    "providerId": "CD_V200",
+    "name": "University of Tasmania Stadium",
+    "abbreviation": "UTAS",
+    "location": "Launceston",
+    "state": "TAS",
+    "timezone": "Australia/Hobart"
+  },
+  {
+    "id": 5,
+    "providerId": "CD_V150",
+    "name": "Manuka Oval",
+    "abbreviation": "MO",
+    "location": "Canberra",
+    "state": "ACT",
+    "timezone": "Australia/Canberra"
+  },
+  {
+    "id": 6,
+    "providerId": "CD_V402",
+    "name": "Blacktown International Sportspark",
+    "abbreviation": "BISP",
+    "location": "Sydney",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 7,
+    "providerId": "CD_V2",
+    "name": "Blundstone Arena",
+    "abbreviation": "BA",
+    "location": "Hobart",
+    "state": "TAS",
+    "timezone": "Australia/Hobart"
+  },
+  {
+    "id": 8,
+    "providerId": "CD_V43",
+    "name": "GIANTS Stadium",
+    "abbreviation": "GS",
+    "location": "Sydney",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 9,
+    "providerId": "CD_V60",
+    "name": "SCG",
+    "abbreviation": "SCG",
+    "location": "Sydney",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 10,
+    "providerId": "CD_V9",
+    "name": "ANZ Stadium",
+    "abbreviation": "ANZ",
+    "location": "Sydney",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 11,
+    "providerId": "CD_V81",
+    "name": "Metricon Stadium",
+    "abbreviation": "MS",
+    "location": "Gold Coast",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 12,
+    "providerId": "CD_V10",
+    "name": "AAMI Stadium",
+    "abbreviation": "AS",
+    "location": "Adelaide",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 13,
+    "providerId": "CD_V40",
+    "name": "MCG",
+    "abbreviation": "MCG",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 14,
+    "providerId": "CD_V70",
+    "name": "Domain Stadium",
+    "abbreviation": "DS",
+    "location": "Perth",
+    "state": "WA",
+    "timezone": "Australia/Perth"
+  },
+  {
+    "id": 15,
+    "providerId": "CD_V30",
+    "name": "GMHBA Stadium",
+    "abbreviation": "GMHBA",
+    "location": "Geelong",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 16,
+    "providerId": "CD_V330",
+    "name": "David Grays Arena",
+    "abbreviation": "DGA",
+    "location": "Mandurah",
+    "state": "WA",
+    "timezone": "Australia/Perth"
+  },
+  {
+    "id": 17,
+    "providerId": "CD_V395",
+    "name": "Bruce Purser Oval",
+    "abbreviation": "RHL",
+    "location": "Sydney",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 18,
+    "providerId": "CD_V457",
+    "name": "Victor Harbour",
+    "abbreviation": "VHT",
+    "location": "Victor Harbour",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 19,
+    "providerId": "CD_V321",
+    "name": "WJ Findlay Oval",
+    "abbreviation": "WJF",
+    "location": "Wangaratta",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 20,
+    "providerId": "CD_V309",
+    "name": "Lavington Sports Ground",
+    "abbreviation": "LVT",
+    "location": "Lavington",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 21,
+    "providerId": "CD_V386",
+    "name": "TIO Traeger Park",
+    "abbreviation": "TP",
+    "location": "Alice Springs",
+    "state": "NT",
+    "timezone": "Australia/Darwin"
+  },
+  {
+    "id": 22,
+    "providerId": "CD_V20",
+    "name": "Gabba",
+    "abbreviation": "G",
+    "location": "Brisbane",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 23,
+    "providerId": "CD_V462",
+    "name": "Maroochydore",
+    "abbreviation": "MCH",
+    "location": "Maroochydore",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 24,
+    "providerId": "CD_V313",
+    "name": "Mars Stadium",
+    "abbreviation": "MARS",
+    "location": "Ballarat",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 25,
+    "providerId": "CD_V130",
+    "name": "Westpac Stadium",
+    "abbreviation": "WS",
+    "location": "Wellington",
+    "timezone": "Pacific/Auckland"
+  },
+  {
+    "id": 26,
+    "providerId": "CD_V371",
+    "name": "Casey Fields",
+    "abbreviation": "CAS",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 27,
+    "providerId": "CD_V459",
+    "name": "Robertson Oval",
+    "abbreviation": "WGA",
+    "location": "Wagga Wagga",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 28,
+    "providerId": "CD_V68",
+    "name": "Riverway Stadium",
+    "abbreviation": "RS",
+    "location": "Townsville",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 29,
+    "providerId": "CD_V69",
+    "name": "Renmark Football Ground",
+    "abbreviation": "RNM",
+    "location": "Renmark",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 30,
+    "providerId": "CD_V358",
+    "name": "Norm Minns Oval",
+    "abbreviation": "WNM",
+    "location": "Wangaratta",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 31,
+    "providerId": "CD_V6",
+    "name": "Adelaide Oval",
+    "abbreviation": "AO",
+    "location": "Adelaide",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 32,
+    "providerId": "CD_V337",
+    "name": "Hisense Stadium",
+    "abbreviation": "HS",
+    "location": "Adelaide",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 33,
+    "providerId": "CD_V170",
+    "name": "Swinburne Centre",
+    "abbreviation": "SWC",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 34,
+    "providerId": "CD_V2216",
+    "name": "Moreton Bay Central Sports Complex",
+    "abbreviation": "MTB",
+    "location": "Burpengary",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 35,
+    "providerId": "CD_V143",
+    "name": "Alberton Oval",
+    "abbreviation": "AO",
+    "location": "Adelaide",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 36,
+    "providerId": "CD_V323",
+    "name": "HBF Arena",
+    "abbreviation": "HBF",
+    "location": "Perth",
+    "state": "WA",
+    "timezone": "Australia/Perth"
+  },
+  {
+    "id": 37,
+    "providerId": "CD_V50",
+    "name": "Ikon Park",
+    "abbreviation": "IKP",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 38,
+    "providerId": "CD_V2367",
+    "name": "Centenary Oval",
+    "abbreviation": "CO",
+    "location": "Port Loncoln",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 39,
+    "providerId": "CD_V311",
+    "name": "Morwell Recreation Reserve",
+    "abbreviation": "MRR",
+    "location": "Morwell",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 40,
+    "providerId": "CD_V110",
+    "name": "Victoria University Whitten Oval",
+    "abbreviation": "VUW",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 41,
+    "providerId": "CD_V2110",
+    "name": "Deakin Reserve Shepparton",
+    "abbreviation": "DKR",
+    "location": "Shepparton",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 42,
+    "providerId": "CD_V194",
+    "name": "Fremantle Oval",
+    "abbreviation": "FRE",
+    "location": "Perth",
+    "state": "WA",
+    "timezone": "Australia/Perth"
+  },
+  {
+    "id": 43,
+    "providerId": "CD_V316",
+    "name": "Queen Elizabeth Oval",
+    "abbreviation": "QEO",
+    "location": "Bendigo",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 44,
+    "providerId": "CD_V218",
+    "name": "Drummoyne Oval",
+    "abbreviation": "DRM",
+    "location": "Sydney",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 45,
+    "providerId": "CD_V215",
+    "name": "Coffs Harbour International Sports Stadium",
+    "abbreviation": "CHIS",
+    "location": "Coffs Harbour",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 46,
+    "providerId": "CD_V374",
+    "name": "Norwood Oval",
+    "abbreviation": "NOR",
+    "location": "Adelaide",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 47,
+    "providerId": "CD_V2575",
+    "name": "Holm Park Recreation Reserve",
+    "abbreviation": "HLM",
+    "location": "Beaconsfield",
+    "state": "VIC",
+    "timezone": "Australia/Victoria"
+  },
+  {
+    "id": 48,
+    "providerId": "CD_V282",
+    "name": "Highgate Recreation Reserve",
+    "abbreviation": "CGB",
+    "location": "Craigieburn",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 49,
+    "providerId": "CD_V336",
+    "name": "Unley Oval",
+    "abbreviation": "UO",
+    "location": "Unley",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 50,
+    "providerId": "CD_V2455",
+    "name": "Sounness Park",
+    "abbreviation": "SSP",
+    "location": "Mount Baker",
+    "state": "WA",
+    "timezone": "Australia/Perth"
+  },
+  {
+    "id": 51,
+    "providerId": "CD_V338",
+    "name": "Playford Alive Oval",
+    "abbreviation": "PAO",
+    "location": "Adelaide",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 52,
+    "providerId": "CD_V2056",
+    "name": "Great Barrier Reef Arena",
+    "abbreviation": "GBRF",
+    "location": "Mackay",
+    "state": "QLD",
+    "timezone": "Australia/Queensland"
+  },
+  {
+    "id": 53,
+    "providerId": "CD_V2765",
+    "name": "Adelaide Arena at Jiangwan Stadium",
+    "abbreviation": "AAJS",
+    "location": "Shanghai",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 54,
+    "providerId": "CD_V2785",
+    "name": "Kombumerri Park",
+    "abbreviation": "KMB",
+    "location": "Merrimac",
+    "state": "QLD",
+    "timezone": "Australia/Queensland"
+  },
+  {
+    "id": 55,
+    "providerId": "CD_V2788",
+    "name": "Ted Summerton Recreational Reserve",
+    "abbreviation": "TSR",
+    "location": "Moe",
+    "state": "VIC",
+    "timezone": "Australia/Victoria"
+  },
+  {
+    "id": 56,
+    "providerId": "CD_V2786",
+    "name": "Wonthella Oval",
+    "abbreviation": "WON",
+    "location": "Wonthella",
+    "state": "WA",
+    "timezone": "Australia/Perth"
+  },
+  {
+    "id": 57,
+    "providerId": "CD_V2787",
+    "name": "Malseed Park",
+    "abbreviation": "MSP",
+    "location": "Mt Gambier",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 58,
+    "providerId": "CD_V24",
+    "name": "Olympic Park Oval",
+    "abbreviation": "OPO",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 59,
+    "providerId": "CD_V335",
+    "name": "Thebarton Oval",
+    "abbreviation": "TBT",
+    "location": "Adelaide",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 60,
+    "providerId": "CD_V385",
+    "name": "Narrandera Sports Ground",
+    "abbreviation": "NRR",
+    "location": "Narrandera",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 61,
+    "providerId": "CD_V346",
+    "name": "Arden Street Oval",
+    "abbreviation": "ARD",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 62,
+    "providerId": "CD_V334",
+    "name": "Flinders University Stadium",
+    "abbreviation": "FUS",
+    "location": "Noarlunga Downs",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 63,
+    "providerId": "CD_V2789",
+    "name": "South Pine Sports Complex",
+    "abbreviation": "SPSC",
+    "location": "Brendale",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 64,
+    "providerId": "CD_V2695",
+    "name": "Twin Oval Kingston",
+    "abbreviation": "TWN",
+    "location": "Hobart",
+    "state": "TAS",
+    "timezone": "Australia/Hobart"
+  },
+  {
+    "id": 65,
+    "providerId": "CD_V2925",
+    "name": "Optus Stadium",
+    "abbreviation": "OS",
+    "location": "Perth",
+    "state": "WA",
+    "timezone": "Australia/Perth"
+  },
+  {
+    "id": 66,
+    "providerId": "CD_V372",
+    "name": "Central Reserve",
+    "abbreviation": "COL",
+    "location": "Colac",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 67,
+    "providerId": "CD_V272",
+    "name": "Riverway Stadium",
+    "abbreviation": "TVL",
+    "location": "Townsville",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 68,
+    "providerId": "CD_V393",
+    "name": "Strathalbyn",
+    "abbreviation": "SLB",
+    "location": "Adelaide",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 69,
+    "providerId": "CD_V101",
+    "name": "Leederville Oval",
+    "abbreviation": "LDV",
+    "location": "Perth",
+    "state": "WA",
+    "timezone": "Australia/Perth"
+  },
+  {
+    "id": 70,
+    "providerId": "CD_V363",
+    "name": "Fankhauser Reserve",
+    "abbreviation": "FKH",
+    "location": "Southport",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 71,
+    "providerId": "CD_V3116",
+    "name": "Memorial Oval",
+    "abbreviation": "MO",
+    "location": "Port Pirie",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 72,
+    "providerId": "CD_V120",
+    "name": "North Hobart Oval",
+    "abbreviation": "NHO",
+    "location": "Hobart",
+    "state": "TAS",
+    "timezone": "Australia/Hobart"
+  },
+  {
+    "id": 73,
+    "providerId": "CD_V3105",
+    "name": "Hickey Park",
+    "abbreviation": "HP",
+    "location": "Stafford",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 74,
+    "providerId": "CD_V303",
+    "name": "Avalon Airport Oval",
+    "abbreviation": "AVA",
+    "location": "Avalon",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 75,
+    "providerId": "CD_V2108",
+    "name": "Oakes Oval",
+    "abbreviation": "OAK",
+    "location": "Lismore",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 76,
+    "providerId": "CD_V80",
+    "name": "Victoria Park",
+    "abbreviation": "VIPC",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 77,
+    "providerId": "CD_V3325",
+    "name": "Bennett Oval",
+    "abbreviation": "BO",
+    "location": "Whyalla",
+    "state": "SA",
+    "timezone": "Australia/Adelaide"
+  },
+  {
+    "id": 78,
+    "providerId": "CD_V347",
+    "name": "RSEA Park",
+    "abbreviation": "RSEA",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 79,
+    "providerId": "CD_V463",
+    "name": "Mineral Resources Park",
+    "abbreviation": "MRP",
+    "location": "Perth",
+    "state": "WA",
+    "timezone": "Australia/Perth"
+  },
+  {
+    "id": 80,
+    "providerId": "CD_V283",
+    "name": "Albury Sports Ground",
+    "abbreviation": "ALB",
+    "location": "Albury",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 81,
+    "providerId": "CD_V302",
+    "name": "Downer Oval",
+    "abbreviation": "DO",
+    "location": "Victoria",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 82,
+    "providerId": "CD_V3215",
+    "name": "Robinson Reserve",
+    "abbreviation": "RR",
+    "location": "Doveton",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 83,
+    "providerId": "CD_V318",
+    "name": "Shepley Oval",
+    "abbreviation": "SLO",
+    "location": "Dandenong",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 84,
+    "providerId": "CD_V3245",
+    "name": "Garfield Football Ground",
+    "abbreviation": "GFG",
+    "location": "Garfield",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 85,
+    "providerId": "CD_V291",
+    "name": "Bayswater Oval",
+    "abbreviation": "BWT",
+    "location": "Bayswater",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 86,
+    "providerId": "CD_V3185",
+    "name": "JC Lowe Oval",
+    "abbreviation": "JCL",
+    "location": "Yarrawonga",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 87,
+    "providerId": "CD_V345",
+    "name": "Windy Hill",
+    "abbreviation": "WH",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 88,
+    "providerId": "CD_V320",
+    "name": "Trevor Barker Beach Oval",
+    "abbreviation": "TBO",
+    "location": "Sandringham",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 89,
+    "providerId": "CD_V442",
+    "name": "Epsom Huntly Reserve",
+    "abbreviation": "HER",
+    "location": "Bendigo",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 90,
+    "providerId": "CD_V322",
+    "name": "Warrawee Park",
+    "abbreviation": "WWP",
+    "location": "Bundoora",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 91,
+    "providerId": "CD_V3176",
+    "name": "La Trobe University",
+    "abbreviation": "LTU",
+    "location": "Bundoora",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 92,
+    "providerId": "CD_V3195",
+    "name": "Dial Park",
+    "abbreviation": "DP",
+    "location": "Tasmania",
+    "state": "TAS",
+    "timezone": "Australia/Hobart"
+  },
+  {
+    "id": 93,
+    "providerId": "CD_V3186",
+    "name": "City Oval",
+    "abbreviation": "CO",
+    "location": "Ballarat",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 94,
+    "providerId": "CD_V443",
+    "name": "Yeronga Football Ground",
+    "abbreviation": "YER",
+    "location": "Yeronga",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 95,
+    "providerId": "CD_V301",
+    "name": "Box Hill City Oval",
+    "abbreviation": "BHO",
+    "location": "Box Hill",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 96,
+    "providerId": "CD_V314",
+    "name": "Preston City Oval",
+    "abbreviation": "PCO",
+    "location": "Preston",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 97,
+    "providerId": "CD_V2219",
+    "name": "Victoria Park, Echuca",
+    "abbreviation": "VPK",
+    "location": "Echuca",
+    "state": "VIC",
+    "timezone": "Australia/ACT"
+  },
+  {
+    "id": 98,
+    "providerId": "CD_V2615",
+    "name": "Olympic Park Oval",
+    "abbreviation": "OPO",
+    "location": "Swan St",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 99,
+    "providerId": "CD_V2807",
+    "name": "Healesville Football Ground",
+    "abbreviation": "HFG",
+    "location": "Healesville",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 100,
+    "providerId": "CD_V396",
+    "name": "Skybus Stadium",
+    "abbreviation": "SS",
+    "location": "Frankston",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 101,
+    "providerId": "CD_V2805",
+    "name": "Deakin University",
+    "abbreviation": "DU",
+    "location": "Geelong",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 102,
+    "providerId": "CD_V3285",
+    "name": "Invermay Park",
+    "abbreviation": "INV",
+    "location": "Invermay",
+    "state": "TAS",
+    "timezone": "Australia/Tasmania"
+  },
+  {
+    "id": 103,
+    "providerId": "CD_V2385",
+    "name": "To Be Confirmed",
+    "abbreviation": "TBC",
+    "location": "TBC",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 104,
+    "providerId": "CD_V365",
+    "name": "Totally Work Wear Park",
+    "abbreviation": "TWWP",
+    "location": "Brisbane",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 105,
+    "providerId": "CD_V377",
+    "name": "Swan Hill Showgrounds",
+    "abbreviation": "SWN",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 106,
+    "providerId": "CD_V3187",
+    "name": "RMIT University Bundoora",
+    "abbreviation": "RMIT",
+    "location": "Bundoora",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 107,
+    "providerId": "CD_V3376",
+    "name": "Kilsyth Recreation Reserve",
+    "abbreviation": "KRR",
+    "location": "Kilsyth",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 108,
+    "providerId": "CD_V3375",
+    "name": "Churchill Football Ground",
+    "abbreviation": "CFC",
+    "location": "Churchill VIC",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 109,
+    "providerId": "CD_V119",
+    "name": "ETU Stadium",
+    "abbreviation": "ETU",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 110,
+    "providerId": "CD_V3366",
+    "name": "MacPherson Park",
+    "abbreviation": "MCP",
+    "location": "Melbourne",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 111,
+    "providerId": "CD_V2975",
+    "name": "Phillip Oval",
+    "abbreviation": "PO",
+    "location": "Canberra",
+    "state": "ACT",
+    "timezone": "Australia/ACT"
+  },
+  {
+    "id": 112,
+    "providerId": "CD_V287",
+    "name": "Graham Rd",
+    "abbreviation": "GRM",
+    "location": "Carseldine",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 113,
+    "providerId": "CD_V341",
+    "name": "Henson Park",
+    "abbreviation": "HEN",
+    "location": "Sydney",
+    "state": "NSW",
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": 114,
+    "providerId": "CD_V368",
+    "name": "Dittmer Park",
+    "abbreviation": "DMP",
+    "location": "Brisbane",
+    "state": "QLD",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": 115,
+    "providerId": "CD_V2988",
+    "name": "Anthony Costa Oval",
+    "abbreviation": "ACO",
+    "location": "Geelong",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 116,
+    "providerId": "CD_V3415",
+    "name": "Prospect Vale Park",
+    "abbreviation": "PVP",
+    "location": "Launceston",
+    "state": "TAS",
+    "timezone": "Australia/Hobart"
+  },
+  {
+    "id": 117,
+    "providerId": "CD_V2111",
+    "name": "The Showgrounds",
+    "abbreviation": "WNG",
+    "location": "Wangaratta",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 118,
+    "providerId": "CD_V3416",
+    "name": "Cathedral College Wangaratta",
+    "abbreviation": "CCW",
+    "location": "Wangaratta",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 119,
+    "providerId": "CD_V3417",
+    "name": "Bluescope Recreation Centre",
+    "abbreviation": "BRC",
+    "location": "Hastings",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  },
+  {
+    "id": 120,
+    "providerId": "CD_V3435",
+    "name": "Ronald Reserve",
+    "abbreviation": "RON",
+    "location": "Morwell East",
+    "state": "VIC",
+    "timezone": "Australia/Melbourne"
+  }
+]

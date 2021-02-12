@@ -1,0 +1,5896 @@
+[
+  {
+    "id": 1,
+    "providerId": "CD_S2012101",
+    "name": "2012 Marsh Community Series",
+    "shortName": "Marsh Community Series",
+    "competition": {
+      "id": 2,
+      "providerId": "CD_C101",
+      "code": "AFL",
+      "name": "AAMI Community Series"
+    },
+    "season": { "id": 1, "year": 2012 },
+    "rounds": [
+      {
+        "id": 1,
+        "providerId": "CD_R201210101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2012-02-17T07:45:00.000+0000",
+        "utcEndTime": "2012-02-26T06:20:00.000+0000"
+      },
+      {
+        "id": 2,
+        "providerId": "CD_R201210102",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2012-03-02T09:40:00.000+0000",
+        "utcEndTime": "2012-03-04T09:10:00.000+0000"
+      },
+      {
+        "id": 3,
+        "providerId": "CD_R201210103",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2012-03-09T07:10:00.000+0000",
+        "utcEndTime": "2012-03-11T04:40:00.000+0000"
+      },
+      {
+        "id": 4,
+        "providerId": "CD_R201210104",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2012-03-17T08:40:00.000+0000",
+        "utcEndTime": "2012-03-17T08:40:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 2,
+    "providerId": "CD_S2012014",
+    "name": "2012 Toyota AFL Premiership",
+    "shortName": "Premiership",
+    "competition": {
+      "id": 1,
+      "providerId": "CD_C014",
+      "code": "AFL",
+      "name": "Toyota AFL Premiership"
+    },
+    "season": { "id": 1, "year": 2012 },
+    "rounds": [
+      {
+        "id": 5,
+        "providerId": "CD_R201201401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2012-03-24T08:20:00.000+0000",
+        "utcEndTime": "2012-04-01T06:40:00.000+0000"
+      },
+      {
+        "id": 6,
+        "providerId": "CD_R201201402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2012-04-05T09:40:00.000+0000",
+        "utcEndTime": "2012-04-09T05:10:00.000+0000"
+      },
+      {
+        "id": 7,
+        "providerId": "CD_R201201403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2012-04-13T09:50:00.000+0000",
+        "utcEndTime": "2012-04-15T06:40:00.000+0000"
+      },
+      {
+        "id": 8,
+        "providerId": "CD_R201201404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2012-04-20T09:50:00.000+0000",
+        "utcEndTime": "2012-04-22T06:40:00.000+0000"
+      },
+      {
+        "id": 9,
+        "providerId": "CD_R201201405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2012-04-25T04:40:00.000+0000",
+        "utcEndTime": "2012-04-29T06:40:00.000+0000"
+      },
+      {
+        "id": 10,
+        "providerId": "CD_R201201406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2012-05-04T09:50:00.000+0000",
+        "utcEndTime": "2012-05-06T06:40:00.000+0000"
+      },
+      {
+        "id": 11,
+        "providerId": "CD_R201201407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2012-05-11T09:50:00.000+0000",
+        "utcEndTime": "2012-05-14T09:40:00.000+0000"
+      },
+      {
+        "id": 12,
+        "providerId": "CD_R201201408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2012-05-18T09:50:00.000+0000",
+        "utcEndTime": "2012-05-20T06:40:00.000+0000"
+      },
+      {
+        "id": 13,
+        "providerId": "CD_R201201409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2012-05-25T09:50:00.000+0000",
+        "utcEndTime": "2012-05-27T06:40:00.000+0000"
+      },
+      {
+        "id": 14,
+        "providerId": "CD_R201201410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2012-06-01T09:50:00.000+0000",
+        "utcEndTime": "2012-06-03T06:40:00.000+0000"
+      },
+      {
+        "id": 15,
+        "providerId": "CD_R201201411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2012-06-08T09:50:00.000+0000",
+        "utcEndTime": "2012-06-11T05:15:00.000+0000"
+      },
+      {
+        "id": 16,
+        "providerId": "CD_R201201412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2012-06-14T09:40:00.000+0000",
+        "utcEndTime": "2012-06-17T06:40:00.000+0000"
+      },
+      {
+        "id": 17,
+        "providerId": "CD_R201201413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2012-06-22T09:50:00.000+0000",
+        "utcEndTime": "2012-06-24T06:40:00.000+0000"
+      },
+      {
+        "id": 18,
+        "providerId": "CD_R201201414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "2012-06-29T09:50:00.000+0000",
+        "utcEndTime": "2012-07-01T06:40:00.000+0000"
+      },
+      {
+        "id": 19,
+        "providerId": "CD_R201201415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2012-07-06T09:50:00.000+0000",
+        "utcEndTime": "2012-07-08T06:40:00.000+0000"
+      },
+      {
+        "id": 20,
+        "providerId": "CD_R201201416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2012-07-13T09:50:00.000+0000",
+        "utcEndTime": "2012-07-15T06:40:00.000+0000"
+      },
+      {
+        "id": 21,
+        "providerId": "CD_R201201417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2012-07-20T09:50:00.000+0000",
+        "utcEndTime": "2012-07-22T06:40:00.000+0000"
+      },
+      {
+        "id": 22,
+        "providerId": "CD_R201201418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2012-07-27T09:50:00.000+0000",
+        "utcEndTime": "2012-07-29T06:40:00.000+0000"
+      },
+      {
+        "id": 23,
+        "providerId": "CD_R201201419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2012-08-03T09:50:00.000+0000",
+        "utcEndTime": "2012-08-05T06:40:00.000+0000"
+      },
+      {
+        "id": 24,
+        "providerId": "CD_R201201420",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2012-08-10T10:40:00.000+0000",
+        "utcEndTime": "2012-08-12T06:40:00.000+0000"
+      },
+      {
+        "id": 25,
+        "providerId": "CD_R201201421",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2012-08-17T09:50:00.000+0000",
+        "utcEndTime": "2012-08-19T06:40:00.000+0000"
+      },
+      {
+        "id": 26,
+        "providerId": "CD_R201201422",
+        "abbreviation": "Rd 22",
+        "name": "Round 22",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2012-08-24T09:50:00.000+0000",
+        "utcEndTime": "2012-08-26T06:40:00.000+0000"
+      },
+      {
+        "id": 27,
+        "providerId": "CD_R201201423",
+        "abbreviation": "Rd 23",
+        "name": "Round 23",
+        "roundNumber": 23,
+        "byes": [],
+        "utcStartTime": "2012-08-31T09:50:00.000+0000",
+        "utcEndTime": "2012-09-02T06:40:00.000+0000"
+      },
+      {
+        "id": 28,
+        "providerId": "CD_R201201424",
+        "abbreviation": "FW1",
+        "name": "Finals Week 1",
+        "roundNumber": 24,
+        "byes": [],
+        "utcStartTime": "2012-09-07T09:50:00.000+0000",
+        "utcEndTime": "2012-09-09T05:15:00.000+0000"
+      },
+      {
+        "id": 29,
+        "providerId": "CD_R201201425",
+        "abbreviation": "SF",
+        "name": "Semi Finals",
+        "roundNumber": 25,
+        "byes": [],
+        "utcStartTime": "2012-09-14T10:45:00.000+0000",
+        "utcEndTime": "2012-09-15T09:45:00.000+0000"
+      },
+      {
+        "id": 30,
+        "providerId": "CD_R201201426",
+        "abbreviation": "PF",
+        "name": "Preliminary Finals",
+        "roundNumber": 26,
+        "byes": [],
+        "utcStartTime": "2012-09-21T09:50:00.000+0000",
+        "utcEndTime": "2012-09-22T07:15:00.000+0000"
+      },
+      {
+        "id": 31,
+        "providerId": "CD_R201201427",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 27,
+        "byes": [],
+        "utcStartTime": "2012-09-29T04:30:00.000+0000",
+        "utcEndTime": "2012-09-29T04:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 27
+  },
+  {
+    "id": 3,
+    "providerId": "CD_S2013101",
+    "name": "2013 AFL NAB Cup",
+    "shortName": "NAB Cup",
+    "competition": {
+      "id": 2,
+      "providerId": "CD_C101",
+      "code": "AFL",
+      "name": "AAMI Community Series"
+    },
+    "season": { "id": 2, "year": 2013 },
+    "rounds": [
+      {
+        "id": 32,
+        "providerId": "CD_R201310101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2013-02-15T07:45:00.000+0000",
+        "utcEndTime": "2013-02-24T07:50:00.000+0000"
+      },
+      {
+        "id": 33,
+        "providerId": "CD_R201310102",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2013-03-01T08:40:00.000+0000",
+        "utcEndTime": "2013-03-03T08:40:00.000+0000"
+      },
+      {
+        "id": 34,
+        "providerId": "CD_R201310103",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2013-03-08T07:10:00.000+0000",
+        "utcEndTime": "2013-03-09T09:30:00.000+0000"
+      },
+      {
+        "id": 35,
+        "providerId": "CD_R201310104",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2013-03-15T08:45:00.000+0000",
+        "utcEndTime": "2013-03-15T08:45:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 4
+  },
+  {
+    "id": 4,
+    "providerId": "CD_S2013014",
+    "name": "2013 Toyota AFL Premiership",
+    "shortName": "Premiership",
+    "competition": {
+      "id": 1,
+      "providerId": "CD_C014",
+      "code": "AFL",
+      "name": "Toyota AFL Premiership"
+    },
+    "season": { "id": 2, "year": 2013 },
+    "rounds": [
+      {
+        "id": 36,
+        "providerId": "CD_R201301401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2013-03-22T09:40:00.000+0000",
+        "utcEndTime": "2013-04-01T04:20:00.000+0000"
+      },
+      {
+        "id": 37,
+        "providerId": "CD_R201301402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2013-04-05T08:50:00.000+0000",
+        "utcEndTime": "2013-04-07T06:40:00.000+0000"
+      },
+      {
+        "id": 38,
+        "providerId": "CD_R201301403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2013-04-12T10:40:00.000+0000",
+        "utcEndTime": "2013-04-14T06:40:00.000+0000"
+      },
+      {
+        "id": 39,
+        "providerId": "CD_R201301404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2013-04-19T09:50:00.000+0000",
+        "utcEndTime": "2013-04-21T06:40:00.000+0000"
+      },
+      {
+        "id": 40,
+        "providerId": "CD_R201301405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2013-04-25T04:40:00.000+0000",
+        "utcEndTime": "2013-04-28T06:40:00.000+0000"
+      },
+      {
+        "id": 41,
+        "providerId": "CD_R201301406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2013-05-03T09:50:00.000+0000",
+        "utcEndTime": "2013-05-05T06:40:00.000+0000"
+      },
+      {
+        "id": 42,
+        "providerId": "CD_R201301407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2013-05-10T09:50:00.000+0000",
+        "utcEndTime": "2013-05-13T09:40:00.000+0000"
+      },
+      {
+        "id": 43,
+        "providerId": "CD_R201301408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2013-05-17T10:40:00.000+0000",
+        "utcEndTime": "2013-05-19T06:40:00.000+0000"
+      },
+      {
+        "id": 44,
+        "providerId": "CD_R201301409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2013-05-24T09:50:00.000+0000",
+        "utcEndTime": "2013-05-26T06:40:00.000+0000"
+      },
+      {
+        "id": 45,
+        "providerId": "CD_R201301410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2013-05-31T09:50:00.000+0000",
+        "utcEndTime": "2013-06-03T09:40:00.000+0000"
+      },
+      {
+        "id": 46,
+        "providerId": "CD_R201301411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2013-06-07T09:50:00.000+0000",
+        "utcEndTime": "2013-06-10T05:20:00.000+0000"
+      },
+      {
+        "id": 47,
+        "providerId": "CD_R201301412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2013-06-14T09:50:00.000+0000",
+        "utcEndTime": "2013-06-16T06:40:00.000+0000"
+      },
+      {
+        "id": 48,
+        "providerId": "CD_R201301413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2013-06-21T09:50:00.000+0000",
+        "utcEndTime": "2013-06-23T06:40:00.000+0000"
+      },
+      {
+        "id": 49,
+        "providerId": "CD_R201301414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "2013-06-27T10:10:00.000+0000",
+        "utcEndTime": "2013-06-30T06:40:00.000+0000"
+      },
+      {
+        "id": 50,
+        "providerId": "CD_R201301415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2013-07-05T09:50:00.000+0000",
+        "utcEndTime": "2013-07-07T06:40:00.000+0000"
+      },
+      {
+        "id": 51,
+        "providerId": "CD_R201301416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2013-07-12T09:50:00.000+0000",
+        "utcEndTime": "2013-07-14T06:40:00.000+0000"
+      },
+      {
+        "id": 52,
+        "providerId": "CD_R201301417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2013-07-19T09:50:00.000+0000",
+        "utcEndTime": "2013-07-21T06:40:00.000+0000"
+      },
+      {
+        "id": 53,
+        "providerId": "CD_R201301418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2013-07-26T09:50:00.000+0000",
+        "utcEndTime": "2013-07-28T06:40:00.000+0000"
+      },
+      {
+        "id": 54,
+        "providerId": "CD_R201301419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2013-08-02T09:50:00.000+0000",
+        "utcEndTime": "2013-08-04T06:40:00.000+0000"
+      },
+      {
+        "id": 55,
+        "providerId": "CD_R201301420",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2013-08-09T09:50:00.000+0000",
+        "utcEndTime": "2013-08-11T06:40:00.000+0000"
+      },
+      {
+        "id": 56,
+        "providerId": "CD_R201301421",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2013-08-16T09:50:00.000+0000",
+        "utcEndTime": "2013-08-18T06:40:00.000+0000"
+      },
+      {
+        "id": 57,
+        "providerId": "CD_R201301422",
+        "abbreviation": "Rd 22",
+        "name": "Round 22",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2013-08-23T09:50:00.000+0000",
+        "utcEndTime": "2013-08-25T06:40:00.000+0000"
+      },
+      {
+        "id": 58,
+        "providerId": "CD_R201301423",
+        "abbreviation": "Rd 23",
+        "name": "Round 23",
+        "roundNumber": 23,
+        "byes": [],
+        "utcStartTime": "2013-08-30T09:50:00.000+0000",
+        "utcEndTime": "2013-09-01T06:40:00.000+0000"
+      },
+      {
+        "id": 59,
+        "providerId": "CD_R201301424",
+        "abbreviation": "FW1",
+        "name": "Finals Week 1",
+        "roundNumber": 24,
+        "byes": [],
+        "utcStartTime": "2013-09-06T09:50:00.000+0000",
+        "utcEndTime": "2013-09-08T05:20:00.000+0000"
+      },
+      {
+        "id": 60,
+        "providerId": "CD_R201301425",
+        "abbreviation": "SF",
+        "name": "Semi Finals",
+        "roundNumber": 25,
+        "byes": [],
+        "utcStartTime": "2013-09-13T09:50:00.000+0000",
+        "utcEndTime": "2013-09-14T09:45:00.000+0000"
+      },
+      {
+        "id": 61,
+        "providerId": "CD_R201301426",
+        "abbreviation": "PF",
+        "name": "Preliminary Finals",
+        "roundNumber": 26,
+        "byes": [],
+        "utcStartTime": "2013-09-20T09:50:00.000+0000",
+        "utcEndTime": "2013-09-21T09:45:00.000+0000"
+      },
+      {
+        "id": 62,
+        "providerId": "CD_R201301427",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 27,
+        "byes": [],
+        "utcStartTime": "2013-09-28T04:30:00.000+0000",
+        "utcEndTime": "2013-09-28T04:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 27
+  },
+  {
+    "id": 5,
+    "providerId": "CD_S2014014",
+    "name": "2014 Toyota AFL Premiership",
+    "shortName": "Premiership",
+    "competition": {
+      "id": 1,
+      "providerId": "CD_C014",
+      "code": "AFL",
+      "name": "Toyota AFL Premiership"
+    },
+    "season": { "id": 3, "year": 2014 },
+    "rounds": [
+      {
+        "id": 63,
+        "providerId": "CD_R201401401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2014-03-14T08:50:00.000+0000",
+        "utcEndTime": "2014-03-23T08:40:00.000+0000"
+      },
+      {
+        "id": 64,
+        "providerId": "CD_R201401402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2014-03-27T08:45:00.000+0000",
+        "utcEndTime": "2014-03-30T05:40:00.000+0000"
+      },
+      {
+        "id": 65,
+        "providerId": "CD_R201401403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2014-04-04T08:50:00.000+0000",
+        "utcEndTime": "2014-04-06T09:10:00.000+0000"
+      },
+      {
+        "id": 66,
+        "providerId": "CD_R201401404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2014-04-11T09:50:00.000+0000",
+        "utcEndTime": "2014-04-13T06:40:00.000+0000"
+      },
+      {
+        "id": 67,
+        "providerId": "CD_R201401405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2014-04-17T09:50:00.000+0000",
+        "utcEndTime": "2014-04-21T05:20:00.000+0000"
+      },
+      {
+        "id": 68,
+        "providerId": "CD_R201401406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2014-04-25T04:40:00.000+0000",
+        "utcEndTime": "2014-04-27T06:40:00.000+0000"
+      },
+      {
+        "id": 69,
+        "providerId": "CD_R201401407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2014-05-02T09:50:00.000+0000",
+        "utcEndTime": "2014-05-04T06:40:00.000+0000"
+      },
+      {
+        "id": 70,
+        "providerId": "CD_R201401408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2014-05-09T09:50:00.000+0000",
+        "utcEndTime": "2014-05-12T09:20:00.000+0000"
+      },
+      {
+        "id": 71,
+        "providerId": "CD_R201401409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2014-05-15T09:50:00.000+0000",
+        "utcEndTime": "2014-05-18T06:40:00.000+0000"
+      },
+      {
+        "id": 72,
+        "providerId": "CD_R201401410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2014-05-23T09:50:00.000+0000",
+        "utcEndTime": "2014-05-25T06:40:00.000+0000"
+      },
+      {
+        "id": 73,
+        "providerId": "CD_R201401411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2014-05-29T09:10:00.000+0000",
+        "utcEndTime": "2014-06-01T09:40:00.000+0000"
+      },
+      {
+        "id": 74,
+        "providerId": "CD_R201401412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2014-06-06T09:50:00.000+0000",
+        "utcEndTime": "2014-06-09T05:20:00.000+0000"
+      },
+      {
+        "id": 75,
+        "providerId": "CD_R201401413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2014-06-13T09:50:00.000+0000",
+        "utcEndTime": "2014-06-15T06:40:00.000+0000"
+      },
+      {
+        "id": 76,
+        "providerId": "CD_R201401414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "2014-06-20T09:50:00.000+0000",
+        "utcEndTime": "2014-06-22T06:40:00.000+0000"
+      },
+      {
+        "id": 77,
+        "providerId": "CD_R201401415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2014-06-27T09:50:00.000+0000",
+        "utcEndTime": "2014-06-29T09:10:00.000+0000"
+      },
+      {
+        "id": 78,
+        "providerId": "CD_R201401416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2014-07-04T09:50:00.000+0000",
+        "utcEndTime": "2014-07-06T06:40:00.000+0000"
+      },
+      {
+        "id": 79,
+        "providerId": "CD_R201401417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2014-07-11T09:50:00.000+0000",
+        "utcEndTime": "2014-07-13T06:40:00.000+0000"
+      },
+      {
+        "id": 80,
+        "providerId": "CD_R201401418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2014-07-18T09:50:00.000+0000",
+        "utcEndTime": "2014-07-27T06:40:00.000+0000"
+      },
+      {
+        "id": 81,
+        "providerId": "CD_R201401419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2014-07-31T10:10:00.000+0000",
+        "utcEndTime": "2014-08-03T06:40:00.000+0000"
+      },
+      {
+        "id": 82,
+        "providerId": "CD_R201401420",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2014-08-08T09:50:00.000+0000",
+        "utcEndTime": "2014-08-10T06:40:00.000+0000"
+      },
+      {
+        "id": 83,
+        "providerId": "CD_R201401421",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2014-08-15T09:50:00.000+0000",
+        "utcEndTime": "2014-08-17T06:40:00.000+0000"
+      },
+      {
+        "id": 84,
+        "providerId": "CD_R201401422",
+        "abbreviation": "Rd 22",
+        "name": "Round 22",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2014-08-22T09:50:00.000+0000",
+        "utcEndTime": "2014-08-24T06:40:00.000+0000"
+      },
+      {
+        "id": 85,
+        "providerId": "CD_R201401423",
+        "abbreviation": "Rd 23",
+        "name": "Round 23",
+        "roundNumber": 23,
+        "byes": [],
+        "utcStartTime": "2014-08-29T09:50:00.000+0000",
+        "utcEndTime": "2014-08-31T06:40:00.000+0000"
+      },
+      {
+        "id": 86,
+        "providerId": "CD_R201401424",
+        "abbreviation": "FW1",
+        "name": "Finals Week 1",
+        "roundNumber": 24,
+        "byes": [],
+        "utcStartTime": "2014-09-05T09:50:00.000+0000",
+        "utcEndTime": "2014-09-07T05:20:00.000+0000"
+      },
+      {
+        "id": 87,
+        "providerId": "CD_R201401425",
+        "abbreviation": "SF",
+        "name": "Semi Finals",
+        "roundNumber": 25,
+        "byes": [],
+        "utcStartTime": "2014-09-12T09:50:00.000+0000",
+        "utcEndTime": "2014-09-13T09:45:00.000+0000"
+      },
+      {
+        "id": 88,
+        "providerId": "CD_R201401426",
+        "abbreviation": "PF",
+        "name": "Preliminary Finals",
+        "roundNumber": 26,
+        "byes": [],
+        "utcStartTime": "2014-09-19T09:50:00.000+0000",
+        "utcEndTime": "2014-09-20T06:45:00.000+0000"
+      },
+      {
+        "id": 89,
+        "providerId": "CD_R201401427",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 27,
+        "byes": [],
+        "utcStartTime": "2014-09-27T04:30:00.000+0000",
+        "utcEndTime": "2014-09-27T04:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 27
+  },
+  {
+    "id": 6,
+    "providerId": "CD_S2014101",
+    "name": "2014 AFL NAB Challenge",
+    "shortName": "NAB Challenge",
+    "competition": {
+      "id": 2,
+      "providerId": "CD_C101",
+      "code": "AFL",
+      "name": "AAMI Community Series"
+    },
+    "season": { "id": 3, "year": 2014 },
+    "rounds": [
+      {
+        "id": 90,
+        "providerId": "CD_R201410101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2014-02-12T08:10:00.000+0000",
+        "utcEndTime": "2014-02-20T08:10:00.000+0000"
+      },
+      {
+        "id": 91,
+        "providerId": "CD_R201410102",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2014-02-21T08:10:00.000+0000",
+        "utcEndTime": "2014-03-01T05:40:00.000+0000"
+      },
+      {
+        "id": 92,
+        "providerId": "CD_R201410103",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2014-03-02T02:00:00.000+0000",
+        "utcEndTime": "2014-03-08T04:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 7,
+    "providerId": "CD_S2015014",
+    "name": "2015 Toyota AFL Premiership",
+    "shortName": "Premiership",
+    "competition": {
+      "id": 1,
+      "providerId": "CD_C014",
+      "code": "AFL",
+      "name": "Toyota AFL Premiership"
+    },
+    "season": { "id": 4, "year": 2015 },
+    "rounds": [
+      {
+        "id": 93,
+        "providerId": "CD_R201501401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2015-04-02T08:20:00.000+0000",
+        "utcEndTime": "2015-04-06T05:20:00.000+0000"
+      },
+      {
+        "id": 94,
+        "providerId": "CD_R201501402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2015-04-10T10:10:00.000+0000",
+        "utcEndTime": "2015-04-12T06:40:00.000+0000"
+      },
+      {
+        "id": 95,
+        "providerId": "CD_R201501403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2015-04-17T09:50:00.000+0000",
+        "utcEndTime": "2015-04-19T06:40:00.000+0000"
+      },
+      {
+        "id": 96,
+        "providerId": "CD_R201501404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2015-04-24T09:50:00.000+0000",
+        "utcEndTime": "2015-04-26T06:40:00.000+0000"
+      },
+      {
+        "id": 97,
+        "providerId": "CD_R201501405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2015-05-01T09:50:00.000+0000",
+        "utcEndTime": "2015-05-03T06:40:00.000+0000"
+      },
+      {
+        "id": 98,
+        "providerId": "CD_R201501406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2015-05-08T09:50:00.000+0000",
+        "utcEndTime": "2015-05-10T06:40:00.000+0000"
+      },
+      {
+        "id": 99,
+        "providerId": "CD_R201501407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2015-05-15T09:50:00.000+0000",
+        "utcEndTime": "2015-05-17T06:40:00.000+0000"
+      },
+      {
+        "id": 100,
+        "providerId": "CD_R201501408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2015-05-22T09:50:00.000+0000",
+        "utcEndTime": "2015-05-24T06:40:00.000+0000"
+      },
+      {
+        "id": 101,
+        "providerId": "CD_R201501409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2015-05-29T09:50:00.000+0000",
+        "utcEndTime": "2015-05-31T06:40:00.000+0000"
+      },
+      {
+        "id": 102,
+        "providerId": "CD_R201501410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2015-06-05T10:10:00.000+0000",
+        "utcEndTime": "2015-06-08T05:20:00.000+0000"
+      },
+      {
+        "id": 103,
+        "providerId": "CD_R201501411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2015-06-12T09:50:00.000+0000",
+        "utcEndTime": "2015-06-14T06:40:00.000+0000"
+      },
+      {
+        "id": 104,
+        "providerId": "CD_R201501412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2015-06-18T09:50:00.000+0000",
+        "utcEndTime": "2015-06-21T05:20:00.000+0000"
+      },
+      {
+        "id": 105,
+        "providerId": "CD_R201501413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2015-06-25T10:10:00.000+0000",
+        "utcEndTime": "2015-06-28T05:20:00.000+0000"
+      },
+      {
+        "id": 106,
+        "providerId": "CD_R201501414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "2015-07-02T09:20:00.000+0000",
+        "utcEndTime": "2015-07-05T06:40:00.000+0000"
+      },
+      {
+        "id": 107,
+        "providerId": "CD_R201501415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2015-07-09T09:50:00.000+0000",
+        "utcEndTime": "2015-07-12T06:40:00.000+0000"
+      },
+      {
+        "id": 108,
+        "providerId": "CD_R201501416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2015-07-17T09:50:00.000+0000",
+        "utcEndTime": "2015-07-19T06:40:00.000+0000"
+      },
+      {
+        "id": 109,
+        "providerId": "CD_R201501417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2015-07-24T09:50:00.000+0000",
+        "utcEndTime": "2015-07-26T06:40:00.000+0000"
+      },
+      {
+        "id": 110,
+        "providerId": "CD_R201501418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2015-07-31T09:50:00.000+0000",
+        "utcEndTime": "2015-08-02T06:40:00.000+0000"
+      },
+      {
+        "id": 111,
+        "providerId": "CD_R201501419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2015-08-07T09:50:00.000+0000",
+        "utcEndTime": "2015-08-09T06:40:00.000+0000"
+      },
+      {
+        "id": 112,
+        "providerId": "CD_R201501420",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2015-08-14T09:50:00.000+0000",
+        "utcEndTime": "2015-08-16T06:40:00.000+0000"
+      },
+      {
+        "id": 113,
+        "providerId": "CD_R201501421",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2015-08-21T09:50:00.000+0000",
+        "utcEndTime": "2015-08-23T06:40:00.000+0000"
+      },
+      {
+        "id": 114,
+        "providerId": "CD_R201501422",
+        "abbreviation": "Rd 22",
+        "name": "Round 22",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2015-08-28T09:50:00.000+0000",
+        "utcEndTime": "2015-08-30T06:40:00.000+0000"
+      },
+      {
+        "id": 115,
+        "providerId": "CD_R201501423",
+        "abbreviation": "Rd 23",
+        "name": "Round 23",
+        "roundNumber": 23,
+        "byes": [],
+        "utcStartTime": "2015-09-04T09:50:00.000+0000",
+        "utcEndTime": "2015-09-06T05:20:00.000+0000"
+      },
+      {
+        "id": 116,
+        "providerId": "CD_R201501424",
+        "abbreviation": "FW1",
+        "name": "Finals Week 1",
+        "roundNumber": 24,
+        "byes": [],
+        "utcStartTime": "2015-09-11T10:20:00.000+0000",
+        "utcEndTime": "2015-09-13T05:20:00.000+0000"
+      },
+      {
+        "id": 117,
+        "providerId": "CD_R201501425",
+        "abbreviation": "SF",
+        "name": "Semi Finals",
+        "roundNumber": 25,
+        "byes": [],
+        "utcStartTime": "2015-09-18T09:50:00.000+0000",
+        "utcEndTime": "2015-09-19T09:20:00.000+0000"
+      },
+      {
+        "id": 118,
+        "providerId": "CD_R201501426",
+        "abbreviation": "PF",
+        "name": "Preliminary Finals",
+        "roundNumber": 26,
+        "byes": [],
+        "utcStartTime": "2015-09-25T10:20:00.000+0000",
+        "utcEndTime": "2015-09-26T09:45:00.000+0000"
+      },
+      {
+        "id": 119,
+        "providerId": "CD_R201501427",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 27,
+        "byes": [],
+        "utcStartTime": "2015-10-03T04:30:00.000+0000",
+        "utcEndTime": "2015-10-03T04:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 27
+  },
+  {
+    "id": 8,
+    "providerId": "CD_S2015101",
+    "name": "2015 AFL NAB Challenge",
+    "shortName": "NAB Challenge",
+    "competition": {
+      "id": 2,
+      "providerId": "CD_C101",
+      "code": "AFL",
+      "name": "AAMI Community Series"
+    },
+    "season": { "id": 4, "year": 2015 },
+    "rounds": [
+      {
+        "id": 120,
+        "providerId": "CD_R201510101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2015-02-26T08:10:00.000+0000",
+        "utcEndTime": "2015-03-22T08:10:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 9,
+    "providerId": "CD_S2016014",
+    "name": "2016 Toyota AFL Premiership",
+    "shortName": "Premiership",
+    "competition": {
+      "id": 1,
+      "providerId": "CD_C014",
+      "code": "AFL",
+      "name": "Toyota AFL Premiership"
+    },
+    "season": { "id": 5, "year": 2016 },
+    "rounds": [
+      {
+        "id": 121,
+        "providerId": "CD_R201601401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2016-03-24T08:20:00.000+0000",
+        "utcEndTime": "2016-03-28T04:20:00.000+0000"
+      },
+      {
+        "id": 122,
+        "providerId": "CD_R201601402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2016-04-01T08:50:00.000+0000",
+        "utcEndTime": "2016-04-03T06:40:00.000+0000"
+      },
+      {
+        "id": 123,
+        "providerId": "CD_R201601403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2016-04-08T09:50:00.000+0000",
+        "utcEndTime": "2016-04-10T06:40:00.000+0000"
+      },
+      {
+        "id": 124,
+        "providerId": "CD_R201601404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2016-04-15T10:10:00.000+0000",
+        "utcEndTime": "2016-04-17T06:40:00.000+0000"
+      },
+      {
+        "id": 125,
+        "providerId": "CD_R201601405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2016-04-22T09:50:00.000+0000",
+        "utcEndTime": "2016-04-25T05:20:00.000+0000"
+      },
+      {
+        "id": 126,
+        "providerId": "CD_R201601406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2016-04-29T09:50:00.000+0000",
+        "utcEndTime": "2016-05-01T06:40:00.000+0000"
+      },
+      {
+        "id": 127,
+        "providerId": "CD_R201601407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2016-05-06T09:50:00.000+0000",
+        "utcEndTime": "2016-05-08T06:40:00.000+0000"
+      },
+      {
+        "id": 128,
+        "providerId": "CD_R201601408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2016-05-13T09:50:00.000+0000",
+        "utcEndTime": "2016-05-15T06:40:00.000+0000"
+      },
+      {
+        "id": 129,
+        "providerId": "CD_R201601409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2016-05-20T09:50:00.000+0000",
+        "utcEndTime": "2016-05-22T06:40:00.000+0000"
+      },
+      {
+        "id": 130,
+        "providerId": "CD_R201601410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2016-05-27T09:50:00.000+0000",
+        "utcEndTime": "2016-05-29T06:40:00.000+0000"
+      },
+      {
+        "id": 131,
+        "providerId": "CD_R201601411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2016-06-03T09:50:00.000+0000",
+        "utcEndTime": "2016-06-05T06:40:00.000+0000"
+      },
+      {
+        "id": 132,
+        "providerId": "CD_R201601412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2016-06-10T09:50:00.000+0000",
+        "utcEndTime": "2016-06-13T05:20:00.000+0000"
+      },
+      {
+        "id": 133,
+        "providerId": "CD_R201601413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2016-06-17T09:50:00.000+0000",
+        "utcEndTime": "2016-06-19T06:40:00.000+0000"
+      },
+      {
+        "id": 134,
+        "providerId": "CD_R201601414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "2016-06-23T09:50:00.000+0000",
+        "utcEndTime": "2016-06-26T05:20:00.000+0000"
+      },
+      {
+        "id": 135,
+        "providerId": "CD_R201601415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2016-06-30T10:10:00.000+0000",
+        "utcEndTime": "2016-07-03T05:20:00.000+0000"
+      },
+      {
+        "id": 136,
+        "providerId": "CD_R201601416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2016-07-07T09:50:00.000+0000",
+        "utcEndTime": "2016-07-10T06:40:00.000+0000"
+      },
+      {
+        "id": 137,
+        "providerId": "CD_R201601417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2016-07-14T09:20:00.000+0000",
+        "utcEndTime": "2016-07-17T06:40:00.000+0000"
+      },
+      {
+        "id": 138,
+        "providerId": "CD_R201601418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2016-07-22T09:50:00.000+0000",
+        "utcEndTime": "2016-07-24T06:40:00.000+0000"
+      },
+      {
+        "id": 139,
+        "providerId": "CD_R201601419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2016-07-29T09:50:00.000+0000",
+        "utcEndTime": "2016-07-31T06:40:00.000+0000"
+      },
+      {
+        "id": 140,
+        "providerId": "CD_R201601420",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2016-08-05T09:50:00.000+0000",
+        "utcEndTime": "2016-08-07T06:40:00.000+0000"
+      },
+      {
+        "id": 141,
+        "providerId": "CD_R201601421",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2016-08-12T09:50:00.000+0000",
+        "utcEndTime": "2016-08-14T06:40:00.000+0000"
+      },
+      {
+        "id": 142,
+        "providerId": "CD_R201601422",
+        "abbreviation": "Rd 22",
+        "name": "Round 22",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2016-08-19T10:10:00.000+0000",
+        "utcEndTime": "2016-08-21T06:40:00.000+0000"
+      },
+      {
+        "id": 143,
+        "providerId": "CD_R201601423",
+        "abbreviation": "Rd 23",
+        "name": "Round 23",
+        "roundNumber": 23,
+        "byes": [],
+        "utcStartTime": "2016-08-26T10:10:00.000+0000",
+        "utcEndTime": "2016-08-28T06:40:00.000+0000"
+      },
+      {
+        "id": 144,
+        "providerId": "CD_R201601424",
+        "abbreviation": "FW1",
+        "name": "Finals Week 1",
+        "roundNumber": 24,
+        "byes": [],
+        "utcStartTime": "2016-09-08T10:10:00.000+0000",
+        "utcEndTime": "2016-09-10T09:40:00.000+0000"
+      },
+      {
+        "id": 145,
+        "providerId": "CD_R201601425",
+        "abbreviation": "SF",
+        "name": "Semi Finals",
+        "roundNumber": 25,
+        "byes": [],
+        "utcStartTime": "2016-09-16T09:50:00.000+0000",
+        "utcEndTime": "2016-09-17T09:25:00.000+0000"
+      },
+      {
+        "id": 146,
+        "providerId": "CD_R201601426",
+        "abbreviation": "PF",
+        "name": "Preliminary Finals",
+        "roundNumber": 26,
+        "byes": [],
+        "utcStartTime": "2016-09-23T09:50:00.000+0000",
+        "utcEndTime": "2016-09-24T07:15:00.000+0000"
+      },
+      {
+        "id": 147,
+        "providerId": "CD_R201601427",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 27,
+        "byes": [],
+        "utcStartTime": "2016-10-01T04:30:00.000+0000",
+        "utcEndTime": "2016-10-01T04:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 27
+  },
+  {
+    "id": 10,
+    "providerId": "CD_S2016101",
+    "name": "2016 AFL NAB Challenge",
+    "shortName": "NAB Challenge",
+    "competition": {
+      "id": 2,
+      "providerId": "CD_C101",
+      "code": "AFL",
+      "name": "AAMI Community Series"
+    },
+    "season": { "id": 5, "year": 2016 },
+    "rounds": [
+      {
+        "id": 148,
+        "providerId": "CD_R201610101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2016-02-18T08:10:00.000+0000",
+        "utcEndTime": "2016-03-13T08:10:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 11,
+    "providerId": "CD_S2017014",
+    "name": "2017 Toyota AFL Premiership",
+    "shortName": "Premiership",
+    "competition": {
+      "id": 1,
+      "providerId": "CD_C014",
+      "code": "AFL",
+      "name": "Toyota AFL Premiership"
+    },
+    "season": { "id": 6, "year": 2017 },
+    "rounds": [
+      {
+        "id": 149,
+        "providerId": "CD_R201701401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2017-03-23T08:20:00.000+0000",
+        "utcEndTime": "2017-03-26T08:40:00.000+0000"
+      },
+      {
+        "id": 150,
+        "providerId": "CD_R201701402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2017-03-30T08:20:00.000+0000",
+        "utcEndTime": "2017-04-02T06:40:00.000+0000"
+      },
+      {
+        "id": 151,
+        "providerId": "CD_R201701403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2017-04-07T09:50:00.000+0000",
+        "utcEndTime": "2017-04-09T06:40:00.000+0000"
+      },
+      {
+        "id": 152,
+        "providerId": "CD_R201701404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2017-04-13T10:10:00.000+0000",
+        "utcEndTime": "2017-04-17T05:20:00.000+0000"
+      },
+      {
+        "id": 153,
+        "providerId": "CD_R201701405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2017-04-21T09:50:00.000+0000",
+        "utcEndTime": "2017-04-25T05:20:00.000+0000"
+      },
+      {
+        "id": 154,
+        "providerId": "CD_R201701406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2017-04-28T09:50:00.000+0000",
+        "utcEndTime": "2017-04-30T06:40:00.000+0000"
+      },
+      {
+        "id": 155,
+        "providerId": "CD_R201701407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2017-05-05T09:50:00.000+0000",
+        "utcEndTime": "2017-05-07T06:40:00.000+0000"
+      },
+      {
+        "id": 156,
+        "providerId": "CD_R201701408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2017-05-12T10:10:00.000+0000",
+        "utcEndTime": "2017-05-14T06:40:00.000+0000"
+      },
+      {
+        "id": 157,
+        "providerId": "CD_R201701409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2017-05-19T09:50:00.000+0000",
+        "utcEndTime": "2017-05-21T06:40:00.000+0000"
+      },
+      {
+        "id": 158,
+        "providerId": "CD_R201701410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2017-05-25T09:20:00.000+0000",
+        "utcEndTime": "2017-05-28T06:40:00.000+0000"
+      },
+      {
+        "id": 159,
+        "providerId": "CD_R201701411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2017-06-01T09:50:00.000+0000",
+        "utcEndTime": "2017-06-04T06:40:00.000+0000"
+      },
+      {
+        "id": 160,
+        "providerId": "CD_R201701412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2017-06-08T09:20:00.000+0000",
+        "utcEndTime": "2017-06-12T05:20:00.000+0000"
+      },
+      {
+        "id": 161,
+        "providerId": "CD_R201701413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2017-06-15T10:10:00.000+0000",
+        "utcEndTime": "2017-06-18T05:20:00.000+0000"
+      },
+      {
+        "id": 162,
+        "providerId": "CD_R201701414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "2017-06-22T09:50:00.000+0000",
+        "utcEndTime": "2017-06-25T06:40:00.000+0000"
+      },
+      {
+        "id": 163,
+        "providerId": "CD_R201701415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2017-06-30T09:50:00.000+0000",
+        "utcEndTime": "2017-07-02T06:40:00.000+0000"
+      },
+      {
+        "id": 164,
+        "providerId": "CD_R201701416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2017-07-07T09:50:00.000+0000",
+        "utcEndTime": "2017-07-09T06:40:00.000+0000"
+      },
+      {
+        "id": 165,
+        "providerId": "CD_R201701417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2017-07-14T09:50:00.000+0000",
+        "utcEndTime": "2017-07-16T06:40:00.000+0000"
+      },
+      {
+        "id": 166,
+        "providerId": "CD_R201701418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2017-07-21T09:50:00.000+0000",
+        "utcEndTime": "2017-07-23T06:40:00.000+0000"
+      },
+      {
+        "id": 167,
+        "providerId": "CD_R201701419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2017-07-28T09:50:00.000+0000",
+        "utcEndTime": "2017-07-30T06:40:00.000+0000"
+      },
+      {
+        "id": 168,
+        "providerId": "CD_R201701420",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2017-08-04T09:50:00.000+0000",
+        "utcEndTime": "2017-08-06T06:40:00.000+0000"
+      },
+      {
+        "id": 169,
+        "providerId": "CD_R201701421",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2017-08-11T09:50:00.000+0000",
+        "utcEndTime": "2017-08-13T06:40:00.000+0000"
+      },
+      {
+        "id": 170,
+        "providerId": "CD_R201701422",
+        "abbreviation": "Rd 22",
+        "name": "Round 22",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2017-08-18T09:50:00.000+0000",
+        "utcEndTime": "2017-08-20T06:40:00.000+0000"
+      },
+      {
+        "id": 171,
+        "providerId": "CD_R201701423",
+        "abbreviation": "Rd 23",
+        "name": "Round 23",
+        "roundNumber": 23,
+        "byes": [],
+        "utcStartTime": "2017-08-25T09:50:00.000+0000",
+        "utcEndTime": "2017-08-27T06:40:00.000+0000"
+      },
+      {
+        "id": 172,
+        "providerId": "CD_R201701424",
+        "abbreviation": "FW1",
+        "name": "Finals Week 1",
+        "roundNumber": 24,
+        "byes": [],
+        "utcStartTime": "2017-09-07T09:50:00.000+0000",
+        "utcEndTime": "2017-09-09T09:50:00.000+0000"
+      },
+      {
+        "id": 173,
+        "providerId": "CD_R201701425",
+        "abbreviation": "SF",
+        "name": "Semi Finals",
+        "roundNumber": 25,
+        "byes": [],
+        "utcStartTime": "2017-09-15T09:50:00.000+0000",
+        "utcEndTime": "2017-09-16T09:25:00.000+0000"
+      },
+      {
+        "id": 174,
+        "providerId": "CD_R201701426",
+        "abbreviation": "PF",
+        "name": "Preliminary Finals",
+        "roundNumber": 26,
+        "byes": [],
+        "utcStartTime": "2017-09-22T09:50:00.000+0000",
+        "utcEndTime": "2017-09-23T06:45:00.000+0000"
+      },
+      {
+        "id": 175,
+        "providerId": "CD_R201701427",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 27,
+        "byes": [],
+        "utcStartTime": "2017-09-30T04:30:00.000+0000",
+        "utcEndTime": "2017-09-30T04:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 27
+  },
+  {
+    "id": 12,
+    "providerId": "CD_S2017101",
+    "name": "2017 AFL JLT Series",
+    "shortName": "JLT Series",
+    "competition": {
+      "id": 2,
+      "providerId": "CD_C101",
+      "code": "AFL",
+      "name": "AAMI Community Series"
+    },
+    "season": { "id": 6, "year": 2017 },
+    "rounds": [
+      {
+        "id": 176,
+        "providerId": "CD_R201710101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2017-02-16T08:40:00.000+0000",
+        "utcEndTime": "2017-02-19T05:40:00.000+0000"
+      },
+      {
+        "id": 177,
+        "providerId": "CD_R201710102",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2017-02-23T08:40:00.000+0000",
+        "utcEndTime": "2017-02-26T05:40:00.000+0000"
+      },
+      {
+        "id": 178,
+        "providerId": "CD_R201710103",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2017-03-02T08:40:00.000+0000",
+        "utcEndTime": "2017-03-05T05:40:00.000+0000"
+      },
+      {
+        "id": 179,
+        "providerId": "CD_R201710104",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2017-03-09T06:50:00.000+0000",
+        "utcEndTime": "2017-03-12T08:10:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 4
+  },
+  {
+    "id": 13,
+    "providerId": "CD_S2017264",
+    "name": "2017 NAB AFLW Competition",
+    "shortName": "2017 AFL Women's",
+    "competition": {
+      "id": 3,
+      "providerId": "CD_C264",
+      "code": "AFLW",
+      "name": "AFL Women's"
+    },
+    "season": { "id": 6, "year": 2017 },
+    "rounds": [
+      {
+        "id": 180,
+        "providerId": "CD_R201726401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2017-02-03T08:45:00.000+0000",
+        "utcEndTime": "2017-02-05T06:05:00.000+0000"
+      },
+      {
+        "id": 181,
+        "providerId": "CD_R201726402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2017-02-10T08:35:00.000+0000",
+        "utcEndTime": "2017-02-12T08:05:00.000+0000"
+      },
+      {
+        "id": 182,
+        "providerId": "CD_R201726403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2017-02-18T01:05:00.000+0000",
+        "utcEndTime": "2017-02-19T01:05:00.000+0000"
+      },
+      {
+        "id": 183,
+        "providerId": "CD_R201726404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2017-02-25T00:35:00.000+0000",
+        "utcEndTime": "2017-02-26T08:05:00.000+0000"
+      },
+      {
+        "id": 184,
+        "providerId": "CD_R201726405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2017-03-03T06:05:00.000+0000",
+        "utcEndTime": "2017-03-04T08:10:00.000+0000"
+      },
+      {
+        "id": 185,
+        "providerId": "CD_R201726406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2017-03-10T07:05:00.000+0000",
+        "utcEndTime": "2017-03-12T00:05:00.000+0000"
+      },
+      {
+        "id": 186,
+        "providerId": "CD_R201726407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2017-03-18T05:35:00.000+0000",
+        "utcEndTime": "2017-03-19T04:35:00.000+0000"
+      },
+      {
+        "id": 187,
+        "providerId": "CD_R201726408",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2017-03-25T03:00:00.000+0000",
+        "utcEndTime": "2017-03-25T03:00:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 8
+  },
+  {
+    "id": 14,
+    "providerId": "CD_S2018014",
+    "name": "2018 Toyota AFL Premiership",
+    "shortName": "Premiership",
+    "competition": {
+      "id": 1,
+      "providerId": "CD_C014",
+      "code": "AFL",
+      "name": "Toyota AFL Premiership"
+    },
+    "season": { "id": 7, "year": 2018 },
+    "rounds": [
+      {
+        "id": 188,
+        "providerId": "CD_R201801401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2018-03-22T08:25:00.000+0000",
+        "utcEndTime": "2018-03-25T08:20:00.000+0000"
+      },
+      {
+        "id": 189,
+        "providerId": "CD_R201801402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2018-03-29T08:50:00.000+0000",
+        "utcEndTime": "2018-04-02T05:20:00.000+0000"
+      },
+      {
+        "id": 190,
+        "providerId": "CD_R201801403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2018-04-06T09:50:00.000+0000",
+        "utcEndTime": "2018-04-08T06:40:00.000+0000"
+      },
+      {
+        "id": 191,
+        "providerId": "CD_R201801404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2018-04-13T09:50:00.000+0000",
+        "utcEndTime": "2018-04-15T06:40:00.000+0000"
+      },
+      {
+        "id": 192,
+        "providerId": "CD_R201801405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2018-04-20T09:50:00.000+0000",
+        "utcEndTime": "2018-04-25T05:20:00.000+0000"
+      },
+      {
+        "id": 193,
+        "providerId": "CD_R201801406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2018-04-27T09:50:00.000+0000",
+        "utcEndTime": "2018-04-29T06:40:00.000+0000"
+      },
+      {
+        "id": 194,
+        "providerId": "CD_R201801407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2018-05-04T09:50:00.000+0000",
+        "utcEndTime": "2018-05-06T06:40:00.000+0000"
+      },
+      {
+        "id": 195,
+        "providerId": "CD_R201801408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2018-05-11T09:50:00.000+0000",
+        "utcEndTime": "2018-05-13T05:20:00.000+0000"
+      },
+      {
+        "id": 196,
+        "providerId": "CD_R201801409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2018-05-18T09:50:00.000+0000",
+        "utcEndTime": "2018-05-20T06:40:00.000+0000"
+      },
+      {
+        "id": 197,
+        "providerId": "CD_R201801410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2018-05-25T09:50:00.000+0000",
+        "utcEndTime": "2018-05-27T06:40:00.000+0000"
+      },
+      {
+        "id": 198,
+        "providerId": "CD_R201801411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2018-06-01T09:50:00.000+0000",
+        "utcEndTime": "2018-06-03T06:40:00.000+0000"
+      },
+      {
+        "id": 199,
+        "providerId": "CD_R201801412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2018-06-08T09:50:00.000+0000",
+        "utcEndTime": "2018-06-11T05:20:00.000+0000"
+      },
+      {
+        "id": 200,
+        "providerId": "CD_R201801413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2018-06-14T09:50:00.000+0000",
+        "utcEndTime": "2018-06-17T05:20:00.000+0000"
+      },
+      {
+        "id": 201,
+        "providerId": "CD_R201801414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "2018-06-21T10:10:00.000+0000",
+        "utcEndTime": "2018-06-24T05:20:00.000+0000"
+      },
+      {
+        "id": 202,
+        "providerId": "CD_R201801415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2018-06-28T09:20:00.000+0000",
+        "utcEndTime": "2018-07-01T06:40:00.000+0000"
+      },
+      {
+        "id": 203,
+        "providerId": "CD_R201801416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2018-07-05T09:20:00.000+0000",
+        "utcEndTime": "2018-07-08T06:40:00.000+0000"
+      },
+      {
+        "id": 204,
+        "providerId": "CD_R201801417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2018-07-12T09:50:00.000+0000",
+        "utcEndTime": "2018-07-15T06:40:00.000+0000"
+      },
+      {
+        "id": 205,
+        "providerId": "CD_R201801418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2018-07-20T09:50:00.000+0000",
+        "utcEndTime": "2018-07-22T06:40:00.000+0000"
+      },
+      {
+        "id": 206,
+        "providerId": "CD_R201801419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2018-07-27T09:50:00.000+0000",
+        "utcEndTime": "2018-07-29T06:40:00.000+0000"
+      },
+      {
+        "id": 207,
+        "providerId": "CD_R201801420",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2018-08-03T09:50:00.000+0000",
+        "utcEndTime": "2018-08-05T06:40:00.000+0000"
+      },
+      {
+        "id": 208,
+        "providerId": "CD_R201801421",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2018-08-10T09:50:00.000+0000",
+        "utcEndTime": "2018-08-12T06:40:00.000+0000"
+      },
+      {
+        "id": 209,
+        "providerId": "CD_R201801422",
+        "abbreviation": "Rd 22",
+        "name": "Round 22",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2018-08-17T09:50:00.000+0000",
+        "utcEndTime": "2018-08-19T06:40:00.000+0000"
+      },
+      {
+        "id": 210,
+        "providerId": "CD_R201801423",
+        "abbreviation": "Rd 23",
+        "name": "Round 23",
+        "roundNumber": 23,
+        "byes": [],
+        "utcStartTime": "2018-08-24T09:50:00.000+0000",
+        "utcEndTime": "2018-08-26T06:40:00.000+0000"
+      },
+      {
+        "id": 211,
+        "providerId": "CD_R201801424",
+        "abbreviation": "FW1",
+        "name": "Finals Week 1",
+        "roundNumber": 24,
+        "byes": [],
+        "utcStartTime": "2018-09-06T09:20:00.000+0000",
+        "utcEndTime": "2018-09-08T10:10:00.000+0000"
+      },
+      {
+        "id": 212,
+        "providerId": "CD_R201801425",
+        "abbreviation": "SF",
+        "name": "Semi Finals",
+        "roundNumber": 25,
+        "byes": [],
+        "utcStartTime": "2018-09-14T09:50:00.000+0000",
+        "utcEndTime": "2018-09-15T09:25:00.000+0000"
+      },
+      {
+        "id": 213,
+        "providerId": "CD_R201801426",
+        "abbreviation": "PF",
+        "name": "Preliminary Finals",
+        "roundNumber": 26,
+        "byes": [],
+        "utcStartTime": "2018-09-21T09:50:00.000+0000",
+        "utcEndTime": "2018-09-22T05:20:00.000+0000"
+      },
+      {
+        "id": 214,
+        "providerId": "CD_R201801427",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 27,
+        "byes": [],
+        "utcStartTime": "2018-09-29T04:30:00.000+0000",
+        "utcEndTime": "2018-09-29T04:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 27
+  },
+  {
+    "id": 15,
+    "providerId": "CD_S2018101",
+    "name": "2018 AFL JLT Series",
+    "shortName": "JLT Series",
+    "competition": {
+      "id": 2,
+      "providerId": "CD_C101",
+      "code": "AFL",
+      "name": "AAMI Community Series"
+    },
+    "season": { "id": 7, "year": 2018 },
+    "rounds": [
+      {
+        "id": 215,
+        "providerId": "CD_R201810101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2018-02-24T03:05:00.000+0000",
+        "utcEndTime": "2018-03-04T05:35:00.000+0000"
+      },
+      {
+        "id": 216,
+        "providerId": "CD_R201810102",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2018-03-07T08:05:00.000+0000",
+        "utcEndTime": "2018-03-11T08:05:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 2
+  },
+  {
+    "id": 16,
+    "providerId": "CD_S2018264",
+    "name": "2018 NAB AFLW Competition",
+    "shortName": "2018 AFL Women's",
+    "competition": {
+      "id": 3,
+      "providerId": "CD_C264",
+      "code": "AFLW",
+      "name": "AFL Women's"
+    },
+    "season": { "id": 7, "year": 2018 },
+    "rounds": [
+      {
+        "id": 217,
+        "providerId": "CD_R201826401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2018-02-02T08:45:00.000+0000",
+        "utcEndTime": "2018-02-04T05:35:00.000+0000"
+      },
+      {
+        "id": 218,
+        "providerId": "CD_R201826402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2018-02-09T08:05:00.000+0000",
+        "utcEndTime": "2018-02-11T05:35:00.000+0000"
+      },
+      {
+        "id": 219,
+        "providerId": "CD_R201826403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2018-02-17T03:05:00.000+0000",
+        "utcEndTime": "2018-02-18T07:35:00.000+0000"
+      },
+      {
+        "id": 220,
+        "providerId": "CD_R201826404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2018-02-23T08:05:00.000+0000",
+        "utcEndTime": "2018-02-25T05:35:00.000+0000"
+      },
+      {
+        "id": 221,
+        "providerId": "CD_R201826405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2018-03-02T08:05:00.000+0000",
+        "utcEndTime": "2018-03-04T03:35:00.000+0000"
+      },
+      {
+        "id": 222,
+        "providerId": "CD_R201826406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2018-03-09T08:05:00.000+0000",
+        "utcEndTime": "2018-03-11T05:35:00.000+0000"
+      },
+      {
+        "id": 223,
+        "providerId": "CD_R201826407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2018-03-16T08:05:00.000+0000",
+        "utcEndTime": "2018-03-18T03:35:00.000+0000"
+      },
+      {
+        "id": 224,
+        "providerId": "CD_R201826408",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2018-03-24T01:35:00.000+0000",
+        "utcEndTime": "2018-03-24T01:35:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 8
+  },
+  {
+    "id": 17,
+    "providerId": "CD_S2019101",
+    "name": "2019 AFL JLT Series",
+    "shortName": "JLT Series",
+    "competition": {
+      "id": 2,
+      "providerId": "CD_C101",
+      "code": "AFL",
+      "name": "AAMI Community Series"
+    },
+    "season": { "id": 8, "year": 2019 },
+    "rounds": [
+      {
+        "id": 225,
+        "providerId": "CD_R201910101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2019-02-28T07:40:00.000+0000",
+        "utcEndTime": "2019-03-04T07:40:00.000+0000"
+      },
+      {
+        "id": 226,
+        "providerId": "CD_R201910102",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2019-03-07T08:10:00.000+0000",
+        "utcEndTime": "2019-03-11T03:10:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 2
+  },
+  {
+    "id": 18,
+    "providerId": "CD_S2019014",
+    "name": "2019 Toyota AFL Premiership",
+    "shortName": "Premiership",
+    "competition": {
+      "id": 1,
+      "providerId": "CD_C014",
+      "code": "AFL",
+      "name": "Toyota AFL Premiership"
+    },
+    "season": { "id": 8, "year": 2019 },
+    "rounds": [
+      {
+        "id": 227,
+        "providerId": "CD_R201901401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2019-03-21T08:25:00.000+0000",
+        "utcEndTime": "2019-03-24T07:20:00.000+0000"
+      },
+      {
+        "id": 228,
+        "providerId": "CD_R201901402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2019-03-28T08:20:00.000+0000",
+        "utcEndTime": "2019-03-31T05:40:00.000+0000"
+      },
+      {
+        "id": 229,
+        "providerId": "CD_R201901403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2019-04-04T08:50:00.000+0000",
+        "utcEndTime": "2019-04-07T07:20:00.000+0000"
+      },
+      {
+        "id": 230,
+        "providerId": "CD_R201901404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2019-04-11T09:20:00.000+0000",
+        "utcEndTime": "2019-04-14T05:20:00.000+0000"
+      },
+      {
+        "id": 231,
+        "providerId": "CD_R201901405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2019-04-18T09:35:00.000+0000",
+        "utcEndTime": "2019-04-22T05:20:00.000+0000"
+      },
+      {
+        "id": 232,
+        "providerId": "CD_R201901406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2019-04-24T09:35:00.000+0000",
+        "utcEndTime": "2019-04-28T06:40:00.000+0000"
+      },
+      {
+        "id": 233,
+        "providerId": "CD_R201901407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2019-05-03T09:50:00.000+0000",
+        "utcEndTime": "2019-05-05T06:40:00.000+0000"
+      },
+      {
+        "id": 234,
+        "providerId": "CD_R201901408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2019-05-10T09:50:00.000+0000",
+        "utcEndTime": "2019-05-12T07:20:00.000+0000"
+      },
+      {
+        "id": 235,
+        "providerId": "CD_R201901409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2019-05-17T10:10:00.000+0000",
+        "utcEndTime": "2019-05-19T06:40:00.000+0000"
+      },
+      {
+        "id": 236,
+        "providerId": "CD_R201901410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2019-05-24T09:50:00.000+0000",
+        "utcEndTime": "2019-05-26T07:20:00.000+0000"
+      },
+      {
+        "id": 237,
+        "providerId": "CD_R201901411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2019-05-31T09:50:00.000+0000",
+        "utcEndTime": "2019-06-02T07:20:00.000+0000"
+      },
+      {
+        "id": 238,
+        "providerId": "CD_R201901412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2019-06-07T09:50:00.000+0000",
+        "utcEndTime": "2019-06-10T05:20:00.000+0000"
+      },
+      {
+        "id": 239,
+        "providerId": "CD_R201901413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2019-06-13T09:50:00.000+0000",
+        "utcEndTime": "2019-06-16T05:20:00.000+0000"
+      },
+      {
+        "id": 240,
+        "providerId": "CD_R201901414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "2019-06-20T10:10:00.000+0000",
+        "utcEndTime": "2019-06-23T05:20:00.000+0000"
+      },
+      {
+        "id": 241,
+        "providerId": "CD_R201901415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2019-06-27T09:20:00.000+0000",
+        "utcEndTime": "2019-06-30T07:20:00.000+0000"
+      },
+      {
+        "id": 242,
+        "providerId": "CD_R201901416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2019-07-05T09:50:00.000+0000",
+        "utcEndTime": "2019-07-07T06:40:00.000+0000"
+      },
+      {
+        "id": 243,
+        "providerId": "CD_R201901417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2019-07-12T10:10:00.000+0000",
+        "utcEndTime": "2019-07-14T06:40:00.000+0000"
+      },
+      {
+        "id": 244,
+        "providerId": "CD_R201901418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2019-07-19T09:50:00.000+0000",
+        "utcEndTime": "2019-07-21T06:40:00.000+0000"
+      },
+      {
+        "id": 245,
+        "providerId": "CD_R201901419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2019-07-26T09:50:00.000+0000",
+        "utcEndTime": "2019-07-28T06:40:00.000+0000"
+      },
+      {
+        "id": 246,
+        "providerId": "CD_R201901420",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2019-08-02T09:50:00.000+0000",
+        "utcEndTime": "2019-08-04T06:40:00.000+0000"
+      },
+      {
+        "id": 247,
+        "providerId": "CD_R201901421",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2019-08-09T09:50:00.000+0000",
+        "utcEndTime": "2019-08-11T07:20:00.000+0000"
+      },
+      {
+        "id": 248,
+        "providerId": "CD_R201901422",
+        "abbreviation": "Rd 22",
+        "name": "Round 22",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2019-08-16T09:50:00.000+0000",
+        "utcEndTime": "2019-08-18T06:40:00.000+0000"
+      },
+      {
+        "id": 249,
+        "providerId": "CD_R201901423",
+        "abbreviation": "Rd 23",
+        "name": "Round 23",
+        "roundNumber": 23,
+        "byes": [],
+        "utcStartTime": "2019-08-23T09:50:00.000+0000",
+        "utcEndTime": "2019-08-25T06:40:00.000+0000"
+      },
+      {
+        "id": 250,
+        "providerId": "CD_R201901424",
+        "abbreviation": "FW1",
+        "name": "Finals Week 1",
+        "roundNumber": 24,
+        "byes": [],
+        "utcStartTime": "2019-09-05T10:10:00.000+0000",
+        "utcEndTime": "2019-09-07T09:25:00.000+0000"
+      },
+      {
+        "id": 251,
+        "providerId": "CD_R201901425",
+        "abbreviation": "SF",
+        "name": "Semi Finals",
+        "roundNumber": 25,
+        "byes": [],
+        "utcStartTime": "2019-09-13T09:50:00.000+0000",
+        "utcEndTime": "2019-09-14T09:25:00.000+0000"
+      },
+      {
+        "id": 252,
+        "providerId": "CD_R201901426",
+        "abbreviation": "PF",
+        "name": "Preliminary Finals",
+        "roundNumber": 26,
+        "byes": [],
+        "utcStartTime": "2019-09-20T09:50:00.000+0000",
+        "utcEndTime": "2019-09-21T06:35:00.000+0000"
+      },
+      {
+        "id": 253,
+        "providerId": "CD_R201901427",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 27,
+        "byes": [],
+        "utcStartTime": "2019-09-28T04:30:00.000+0000",
+        "utcEndTime": "2019-09-28T04:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 27
+  },
+  {
+    "id": 19,
+    "providerId": "CD_S2019264",
+    "name": "2019 NAB AFLW Competition",
+    "shortName": "2019 AFL Women's",
+    "competition": {
+      "id": 3,
+      "providerId": "CD_C264",
+      "code": "AFLW",
+      "name": "AFL Women's"
+    },
+    "season": { "id": 8, "year": 2019 },
+    "rounds": [
+      {
+        "id": 254,
+        "providerId": "CD_R201926401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2019-02-02T07:45:00.000+0000",
+        "utcEndTime": "2019-02-03T06:05:00.000+0000"
+      },
+      {
+        "id": 255,
+        "providerId": "CD_R201926402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2019-02-08T08:15:00.000+0000",
+        "utcEndTime": "2019-02-10T07:05:00.000+0000"
+      },
+      {
+        "id": 256,
+        "providerId": "CD_R201926403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2019-02-15T08:15:00.000+0000",
+        "utcEndTime": "2019-02-17T05:35:00.000+0000"
+      },
+      {
+        "id": 257,
+        "providerId": "CD_R201926404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2019-02-23T05:45:00.000+0000",
+        "utcEndTime": "2019-02-24T05:05:00.000+0000"
+      },
+      {
+        "id": 258,
+        "providerId": "CD_R201926405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2019-03-02T05:45:00.000+0000",
+        "utcEndTime": "2019-03-03T07:05:00.000+0000"
+      },
+      {
+        "id": 259,
+        "providerId": "CD_R201926406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2019-03-09T03:35:00.000+0000",
+        "utcEndTime": "2019-03-10T05:05:00.000+0000"
+      },
+      {
+        "id": 260,
+        "providerId": "CD_R201926407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2019-03-15T08:15:00.000+0000",
+        "utcEndTime": "2019-03-17T05:05:00.000+0000"
+      },
+      {
+        "id": 261,
+        "providerId": "CD_R201926408",
+        "abbreviation": "PF",
+        "name": "Preliminary Finals",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2019-03-23T03:45:00.000+0000",
+        "utcEndTime": "2019-03-24T02:10:00.000+0000"
+      },
+      {
+        "id": 262,
+        "providerId": "CD_R201926409",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2019-03-31T02:00:00.000+0000",
+        "utcEndTime": "2019-03-31T02:00:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 9
+  },
+  {
+    "id": 20,
+    "providerId": "CD_S2020014",
+    "name": "2020 Toyota AFL Premiership",
+    "shortName": "Premiership",
+    "competition": {
+      "id": 1,
+      "providerId": "CD_C014",
+      "code": "AFL",
+      "name": "Toyota AFL Premiership"
+    },
+    "season": { "id": 9, "year": 2020 },
+    "rounds": [
+      {
+        "id": 263,
+        "providerId": "CD_R202001401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2020-03-19T08:40:00.000+0000",
+        "utcEndTime": "2020-03-22T07:40:00.000+0000"
+      },
+      {
+        "id": 264,
+        "providerId": "CD_R202001402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2020-06-11T09:40:00.000+0000",
+        "utcEndTime": "2020-06-14T08:05:00.000+0000"
+      },
+      {
+        "id": 265,
+        "providerId": "CD_R202001403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [
+          {
+            "id": 12,
+            "providerId": "CD_T50",
+            "name": "Essendon",
+            "abbreviation": "ESS",
+            "nickname": "Bombers",
+            "club": {
+              "id": 10,
+              "providerId": "CD_O9",
+              "name": "Essendon",
+              "abbreviation": "Bombers",
+              "nickname": "Bombers"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 17,
+            "providerId": "CD_T90",
+            "name": "Melbourne",
+            "abbreviation": "MELB",
+            "nickname": "Demons",
+            "club": {
+              "id": 14,
+              "providerId": "CD_O18",
+              "name": "Melbourne",
+              "abbreviation": "Demons",
+              "nickname": "Demons"
+            },
+            "teamType": "MEN"
+          }
+        ],
+        "utcStartTime": "2020-06-18T09:40:00.000+0000",
+        "utcEndTime": "2020-06-21T10:10:00.000+0000"
+      },
+      {
+        "id": 266,
+        "providerId": "CD_R202001404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2020-06-25T09:40:00.000+0000",
+        "utcEndTime": "2020-06-28T08:10:00.000+0000"
+      },
+      {
+        "id": 431,
+        "providerId": "CD_R202001405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2020-07-02T09:40:00.000+0000",
+        "utcEndTime": "2020-07-05T08:10:00.000+0000"
+      },
+      {
+        "id": 432,
+        "providerId": "CD_R202001406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2020-07-09T09:40:00.000+0000",
+        "utcEndTime": "2020-07-12T08:45:00.000+0000"
+      },
+      {
+        "id": 433,
+        "providerId": "CD_R202001407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2020-07-16T10:10:00.000+0000",
+        "utcEndTime": "2020-07-20T09:40:00.000+0000"
+      },
+      {
+        "id": 434,
+        "providerId": "CD_R202001408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2020-07-23T09:40:00.000+0000",
+        "utcEndTime": "2020-07-27T10:10:00.000+0000"
+      },
+      {
+        "id": 435,
+        "providerId": "CD_R202001409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2020-07-29T09:10:00.000+0000",
+        "utcEndTime": "2020-08-02T08:10:00.000+0000"
+      },
+      {
+        "id": 436,
+        "providerId": "CD_R202001410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [
+          {
+            "id": 5,
+            "providerId": "CD_T30",
+            "name": "Carlton",
+            "abbreviation": "CARL",
+            "nickname": "Blues",
+            "club": {
+              "id": 1,
+              "providerId": "CD_O5",
+              "name": "Carlton",
+              "abbreviation": "Blues",
+              "nickname": "Blues"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 9,
+            "providerId": "CD_T80",
+            "name": "Hawthorn",
+            "abbreviation": "HAW",
+            "nickname": "Hawks",
+            "club": {
+              "id": 16,
+              "providerId": "CD_O17",
+              "name": "Hawthorn",
+              "abbreviation": "Hawks",
+              "nickname": "Hawks"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 14,
+            "providerId": "CD_T60",
+            "name": "Fremantle",
+            "abbreviation": "FRE",
+            "nickname": "Dockers",
+            "club": {
+              "id": 6,
+              "providerId": "CD_O10",
+              "name": "Fremantle",
+              "abbreviation": "Dockers",
+              "nickname": "Dockers"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 18,
+            "providerId": "CD_T150",
+            "name": "West Coast Eagles",
+            "abbreviation": "WCE",
+            "nickname": "Eagles",
+            "club": {
+              "id": 23,
+              "providerId": "CD_O30",
+              "name": "West Coast Eagles",
+              "abbreviation": "Eagles",
+              "nickname": "Eagles"
+            },
+            "teamType": "MEN"
+          }
+        ],
+        "utcStartTime": "2020-08-03T09:10:00.000+0000",
+        "utcEndTime": "2020-08-07T09:50:00.000+0000"
+      },
+      {
+        "id": 437,
+        "providerId": "CD_R202001411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [
+          {
+            "id": 13,
+            "providerId": "CD_T160",
+            "name": "Sydney Swans",
+            "abbreviation": "SYD",
+            "nickname": "Swans",
+            "club": {
+              "id": 24,
+              "providerId": "CD_O28",
+              "name": "Sydney Swans",
+              "abbreviation": "Swans",
+              "nickname": "Swans"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 15,
+            "providerId": "CD_T1010",
+            "name": "GWS Giants",
+            "abbreviation": "GWS",
+            "nickname": "Giants",
+            "club": {
+              "id": 5,
+              "providerId": "CD_O16",
+              "name": "GWS Giants",
+              "abbreviation": "Giants",
+              "nickname": "Giants"
+            },
+            "teamType": "MEN"
+          }
+        ],
+        "utcStartTime": "2020-08-08T06:35:00.000+0000",
+        "utcEndTime": "2020-08-12T09:10:00.000+0000"
+      },
+      {
+        "id": 438,
+        "providerId": "CD_R202001412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2020-08-13T10:10:00.000+0000",
+        "utcEndTime": "2020-08-17T09:10:00.000+0000"
+      },
+      {
+        "id": 439,
+        "providerId": "CD_R202001413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2020-08-21T09:50:00.000+0000",
+        "utcEndTime": "2020-08-24T09:10:00.000+0000"
+      },
+      {
+        "id": 440,
+        "providerId": "CD_R202001414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [
+          {
+            "id": 1,
+            "providerId": "CD_T10",
+            "name": "Adelaide Crows",
+            "abbreviation": "ADEL",
+            "nickname": "Crows",
+            "club": {
+              "id": 3,
+              "providerId": "CD_O1",
+              "name": "Adelaide Crows",
+              "abbreviation": "Crows",
+              "nickname": "Crows"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 2,
+            "providerId": "CD_T20",
+            "name": "Brisbane Lions",
+            "abbreviation": "BL",
+            "nickname": "Lions",
+            "club": {
+              "id": 13,
+              "providerId": "CD_O3",
+              "name": "Brisbane Lions",
+              "abbreviation": "Lions",
+              "nickname": "Lions"
+            },
+            "teamType": "MEN"
+          }
+        ],
+        "utcStartTime": "2020-08-27T06:40:00.000+0000",
+        "utcEndTime": "2020-08-30T08:10:00.000+0000"
+      },
+      {
+        "id": 441,
+        "providerId": "CD_R202001415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [
+          {
+            "id": 4,
+            "providerId": "CD_T1000",
+            "name": "Gold Coast Suns",
+            "abbreviation": "GCFC",
+            "nickname": "Suns",
+            "club": {
+              "id": 9,
+              "providerId": "CD_O14",
+              "name": "Gold Coast Suns",
+              "abbreviation": "Suns",
+              "nickname": "Suns"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 6,
+            "providerId": "CD_T100",
+            "name": "North Melbourne",
+            "abbreviation": "NMFC",
+            "nickname": "Kangaroos",
+            "club": {
+              "id": 20,
+              "providerId": "CD_O20",
+              "name": "North Melbourne",
+              "abbreviation": "Kangaroos",
+              "nickname": "Kangaroos"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 7,
+            "providerId": "CD_T110",
+            "name": "Port Adelaide",
+            "abbreviation": "PORT",
+            "nickname": "Power",
+            "club": {
+              "id": 19,
+              "providerId": "CD_O24",
+              "name": "Port Adelaide",
+              "abbreviation": "Power",
+              "nickname": "Power"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 8,
+            "providerId": "CD_T140",
+            "name": "Western Bulldogs",
+            "abbreviation": "WB",
+            "nickname": "Bulldogs",
+            "club": {
+              "id": 25,
+              "providerId": "CD_O31",
+              "name": "Western Bulldogs",
+              "abbreviation": "Bulldogs",
+              "nickname": "Bulldogs"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 10,
+            "providerId": "CD_T70",
+            "name": "Geelong Cats",
+            "abbreviation": "GEEL",
+            "nickname": "Cats",
+            "club": {
+              "id": 15,
+              "providerId": "CD_O11",
+              "name": "Geelong Cats",
+              "abbreviation": "Cats",
+              "nickname": "Cats"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 11,
+            "providerId": "CD_T130",
+            "name": "St Kilda",
+            "abbreviation": "STK",
+            "nickname": "Saints",
+            "club": {
+              "id": 21,
+              "providerId": "CD_O27",
+              "name": "St Kilda",
+              "abbreviation": "Saints",
+              "nickname": "Saints"
+            },
+            "teamType": "MEN"
+          }
+        ],
+        "utcStartTime": "2020-09-01T07:40:00.000+0000",
+        "utcEndTime": "2020-09-04T09:50:00.000+0000"
+      },
+      {
+        "id": 442,
+        "providerId": "CD_R202001416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [
+          {
+            "id": 3,
+            "providerId": "CD_T40",
+            "name": "Collingwood",
+            "abbreviation": "COLL",
+            "nickname": "Magpies",
+            "club": {
+              "id": 12,
+              "providerId": "CD_O6",
+              "name": "Collingwood",
+              "abbreviation": "Magpies",
+              "nickname": "Magpies"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 16,
+            "providerId": "CD_T120",
+            "name": "Richmond",
+            "abbreviation": "RICH",
+            "nickname": "Tigers",
+            "club": {
+              "id": 22,
+              "providerId": "CD_O25",
+              "name": "Richmond",
+              "abbreviation": "Tigers",
+              "nickname": "Tigers"
+            },
+            "teamType": "MEN"
+          }
+        ],
+        "utcStartTime": "2020-09-05T09:40:00.000+0000",
+        "utcEndTime": "2020-09-09T09:10:00.000+0000"
+      },
+      {
+        "id": 443,
+        "providerId": "CD_R202001417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2020-09-10T09:10:00.000+0000",
+        "utcEndTime": "2020-09-14T09:10:00.000+0000"
+      },
+      {
+        "id": 444,
+        "providerId": "CD_R202001418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2020-09-17T09:10:00.000+0000",
+        "utcEndTime": "2020-09-21T09:15:00.000+0000"
+      },
+      {
+        "id": 445,
+        "providerId": "CD_R202001419",
+        "abbreviation": "FW1",
+        "name": "Finals Week 1",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2020-10-01T09:40:00.000+0000",
+        "utcEndTime": "2020-10-03T10:10:00.000+0000"
+      },
+      {
+        "id": 446,
+        "providerId": "CD_R202001420",
+        "abbreviation": "SF",
+        "name": "Semi Finals",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2020-10-09T08:50:00.000+0000",
+        "utcEndTime": "2020-10-10T08:40:00.000+0000"
+      },
+      {
+        "id": 447,
+        "providerId": "CD_R202001421",
+        "abbreviation": "PF",
+        "name": "Preliminary Finals",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2020-10-16T08:50:00.000+0000",
+        "utcEndTime": "2020-10-17T08:40:00.000+0000"
+      },
+      {
+        "id": 448,
+        "providerId": "CD_R202001422",
+        "abbreviation": "GF",
+        "name": "Grand Final",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2020-10-24T08:30:00.000+0000",
+        "utcEndTime": "2020-10-24T08:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 22
+  },
+  {
+    "id": 21,
+    "providerId": "CD_S2020101",
+    "name": "2020 Marsh Community Series",
+    "shortName": "Marsh Community Series",
+    "competition": {
+      "id": 2,
+      "providerId": "CD_C101",
+      "code": "AFL",
+      "name": "AAMI Community Series"
+    },
+    "season": { "id": 9, "year": 2020 },
+    "rounds": [
+      {
+        "id": 286,
+        "providerId": "CD_R202010101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2020-02-20T08:10:00.000+0000",
+        "utcEndTime": "2020-03-01T05:10:00.000+0000"
+      },
+      {
+        "id": 287,
+        "providerId": "CD_R202010102",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2020-03-06T05:50:00.000+0000",
+        "utcEndTime": "2020-03-09T05:40:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 2
+  },
+  {
+    "id": 22,
+    "providerId": "CD_S2020264",
+    "name": "2020 NAB AFLW Competition",
+    "shortName": "2020 AFL Womens",
+    "competition": {
+      "id": 3,
+      "providerId": "CD_C264",
+      "code": "AFLW",
+      "name": "AFL Women's"
+    },
+    "season": { "id": 9, "year": 2020 },
+    "rounds": [
+      {
+        "id": 288,
+        "providerId": "CD_R202026401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2020-02-07T08:45:00.000+0000",
+        "utcEndTime": "2020-02-09T06:10:00.000+0000"
+      },
+      {
+        "id": 289,
+        "providerId": "CD_R202026402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2020-02-14T08:40:00.000+0000",
+        "utcEndTime": "2020-02-16T06:10:00.000+0000"
+      },
+      {
+        "id": 290,
+        "providerId": "CD_R202026403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2020-02-21T08:10:00.000+0000",
+        "utcEndTime": "2020-02-23T06:10:00.000+0000"
+      },
+      {
+        "id": 291,
+        "providerId": "CD_R202026404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2020-02-28T06:35:00.000+0000",
+        "utcEndTime": "2020-03-01T06:10:00.000+0000"
+      },
+      {
+        "id": 292,
+        "providerId": "CD_R202026405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2020-03-06T08:10:00.000+0000",
+        "utcEndTime": "2020-03-08T06:10:00.000+0000"
+      },
+      {
+        "id": 293,
+        "providerId": "CD_R202026406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2020-03-13T08:10:00.000+0000",
+        "utcEndTime": "2020-03-15T06:10:00.000+0000"
+      },
+      {
+        "id": 294,
+        "providerId": "CD_R202026407",
+        "abbreviation": "SF",
+        "name": "Semi Finals",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2020-03-21T01:40:00.000+0000",
+        "utcEndTime": "2020-03-22T02:10:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 7
+  },
+  {
+    "id": 23,
+    "providerId": "CD_S2019584",
+    "name": "NAB League Boys 2019",
+    "shortName": "NAB League Boys 2019",
+    "competition": {
+      "id": 4,
+      "providerId": "CD_C584",
+      "code": "U18B",
+      "name": "NAB League Boys"
+    },
+    "season": { "id": 8, "year": 2019 },
+    "rounds": [
+      {
+        "id": 296,
+        "providerId": "CD_R201958401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2019-03-23T04:00:00.000+0000",
+        "utcEndTime": "2019-03-24T04:40:00.000+0000"
+      },
+      {
+        "id": 297,
+        "providerId": "CD_R201958402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2019-03-29T22:30:00.000+0000",
+        "utcEndTime": "2019-03-31T04:40:00.000+0000"
+      },
+      {
+        "id": 298,
+        "providerId": "CD_R201958403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2019-04-05T22:45:00.000+0000",
+        "utcEndTime": "2019-04-07T05:00:00.000+0000"
+      },
+      {
+        "id": 299,
+        "providerId": "CD_R201958404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2019-04-13T00:45:00.000+0000",
+        "utcEndTime": "2019-04-14T04:30:00.000+0000"
+      },
+      {
+        "id": 300,
+        "providerId": "CD_R201958405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2019-04-26T09:00:00.000+0000",
+        "utcEndTime": "2019-04-28T04:00:00.000+0000"
+      },
+      {
+        "id": 301,
+        "providerId": "CD_R201958406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2019-05-04T01:30:00.000+0000",
+        "utcEndTime": "2019-05-05T04:00:00.000+0000"
+      },
+      {
+        "id": 302,
+        "providerId": "CD_R201958407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2019-05-11T04:00:00.000+0000",
+        "utcEndTime": "2019-05-12T04:00:00.000+0000"
+      },
+      {
+        "id": 303,
+        "providerId": "CD_R201958408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2019-05-18T00:00:00.000+0000",
+        "utcEndTime": "2019-05-19T03:00:00.000+0000"
+      },
+      {
+        "id": 304,
+        "providerId": "CD_R201958409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2019-06-01T01:00:00.000+0000",
+        "utcEndTime": "2019-06-02T03:00:00.000+0000"
+      },
+      {
+        "id": 305,
+        "providerId": "CD_R201958410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2019-06-08T00:30:00.000+0000",
+        "utcEndTime": "2019-06-09T00:00:00.000+0000"
+      },
+      {
+        "id": 306,
+        "providerId": "CD_R201958411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2019-06-22T01:00:00.000+0000",
+        "utcEndTime": "2019-06-23T03:00:00.000+0000"
+      },
+      {
+        "id": 307,
+        "providerId": "CD_R201958412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2019-06-28T23:20:00.000+0000",
+        "utcEndTime": "2019-07-13T00:45:00.000+0000"
+      },
+      {
+        "id": 308,
+        "providerId": "CD_R201958413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2019-07-06T01:00:00.000+0000",
+        "utcEndTime": "2019-07-07T01:30:00.000+0000"
+      },
+      {
+        "id": 309,
+        "providerId": "CD_R201958414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "2019-07-20T01:45:00.000+0000",
+        "utcEndTime": "2019-07-21T03:30:00.000+0000"
+      },
+      {
+        "id": 310,
+        "providerId": "CD_R201958415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2019-07-27T01:00:00.000+0000",
+        "utcEndTime": "2019-07-28T03:00:00.000+0000"
+      },
+      {
+        "id": 311,
+        "providerId": "CD_R201958416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2019-08-03T00:30:00.000+0000",
+        "utcEndTime": "2019-08-04T03:00:00.000+0000"
+      },
+      {
+        "id": 312,
+        "providerId": "CD_R201958417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2019-08-17T00:00:00.000+0000",
+        "utcEndTime": "2019-08-18T05:00:00.000+0000"
+      },
+      {
+        "id": 313,
+        "providerId": "CD_R201958418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2019-08-24T01:45:00.000+0000",
+        "utcEndTime": "2019-08-25T04:15:00.000+0000"
+      },
+      {
+        "id": 314,
+        "providerId": "CD_R201958419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2019-08-31T01:30:00.000+0000",
+        "utcEndTime": "2019-09-01T03:30:00.000+0000"
+      },
+      {
+        "id": 315,
+        "providerId": "CD_R201958420",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2019-09-07T01:00:00.000+0000",
+        "utcEndTime": "2019-09-07T03:30:00.000+0000"
+      },
+      {
+        "id": 316,
+        "providerId": "CD_R201958421",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2019-09-14T01:00:00.000+0000",
+        "utcEndTime": "2019-09-14T03:30:00.000+0000"
+      },
+      {
+        "id": 329,
+        "providerId": "CD_R201958422",
+        "abbreviation": "Rd 22",
+        "name": "Round 22",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2019-09-21T03:05:00.000+0000",
+        "utcEndTime": "2019-09-21T03:05:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 22
+  },
+  {
+    "id": 24,
+    "providerId": "CD_S2019574",
+    "name": "NAB League Girls 2019",
+    "shortName": "NAB League Girls 2019",
+    "competition": {
+      "id": 5,
+      "providerId": "CD_C574",
+      "code": "U18G",
+      "name": "NAB League Girls (Legacy)"
+    },
+    "season": { "id": 8, "year": 2019 },
+    "rounds": [
+      {
+        "id": 317,
+        "providerId": "CD_R201957401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2019-03-01T22:15:00.000+0000",
+        "utcEndTime": "2019-03-03T03:00:00.000+0000"
+      },
+      {
+        "id": 318,
+        "providerId": "CD_R201957402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2019-03-16T01:45:00.000+0000",
+        "utcEndTime": "2019-03-17T06:00:00.000+0000"
+      },
+      {
+        "id": 319,
+        "providerId": "CD_R201957403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2019-03-22T22:30:00.000+0000",
+        "utcEndTime": "2019-03-24T02:00:00.000+0000"
+      },
+      {
+        "id": 320,
+        "providerId": "CD_R201957404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2019-03-30T00:15:00.000+0000",
+        "utcEndTime": "2019-03-31T02:45:00.000+0000"
+      },
+      {
+        "id": 321,
+        "providerId": "CD_R201957405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2019-04-06T01:00:00.000+0000",
+        "utcEndTime": "2019-04-07T04:00:00.000+0000"
+      },
+      {
+        "id": 322,
+        "providerId": "CD_R201957406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2019-04-13T02:45:00.000+0000",
+        "utcEndTime": "2019-04-14T02:45:00.000+0000"
+      },
+      {
+        "id": 323,
+        "providerId": "CD_R201957407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2019-04-26T08:00:00.000+0000",
+        "utcEndTime": "2019-04-28T03:00:00.000+0000"
+      },
+      {
+        "id": 324,
+        "providerId": "CD_R201957408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2019-05-04T02:30:00.000+0000",
+        "utcEndTime": "2019-05-05T03:00:00.000+0000"
+      },
+      {
+        "id": 325,
+        "providerId": "CD_R201957409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2019-05-11T02:00:00.000+0000",
+        "utcEndTime": "2019-05-12T05:00:00.000+0000"
+      },
+      {
+        "id": 326,
+        "providerId": "CD_R201957410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2019-05-19T01:00:00.000+0000",
+        "utcEndTime": "2019-05-19T01:00:00.000+0000"
+      },
+      {
+        "id": 327,
+        "providerId": "CD_R201957411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2019-05-18T02:30:00.000+0000",
+        "utcEndTime": "2019-05-18T04:15:00.000+0000"
+      },
+      {
+        "id": 328,
+        "providerId": "CD_R201957412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2019-05-25T04:00:00.000+0000",
+        "utcEndTime": "2019-05-25T04:00:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 0
+  },
+  {
+    "id": 25,
+    "providerId": "CD_S2020584",
+    "name": "NAB League Boys 2020",
+    "shortName": "NAB League Boys 2020",
+    "competition": {
+      "id": 4,
+      "providerId": "CD_C584",
+      "code": "U18B",
+      "name": "NAB League Boys"
+    },
+    "season": { "id": 9, "year": 2020 },
+    "rounds": [
+      {
+        "id": 330,
+        "providerId": "CD_R202058401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 331,
+        "providerId": "CD_R202058402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 332,
+        "providerId": "CD_R202058403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 333,
+        "providerId": "CD_R202058404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 334,
+        "providerId": "CD_R202058405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 335,
+        "providerId": "CD_R202058406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 336,
+        "providerId": "CD_R202058407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 337,
+        "providerId": "CD_R202058408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 338,
+        "providerId": "CD_R202058409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 339,
+        "providerId": "CD_R202058410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 340,
+        "providerId": "CD_R202058411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 341,
+        "providerId": "CD_R202058412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 342,
+        "providerId": "CD_R202058413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 343,
+        "providerId": "CD_R202058414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 344,
+        "providerId": "CD_R202058415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 345,
+        "providerId": "CD_R202058416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 346,
+        "providerId": "CD_R202058417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 347,
+        "providerId": "CD_R202058418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 348,
+        "providerId": "CD_R202058419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 26,
+    "providerId": "CD_S2020574",
+    "name": "NAB League Girls (Legacy)",
+    "shortName": "NAB League Girls (Legacy)",
+    "competition": {
+      "id": 5,
+      "providerId": "CD_C574",
+      "code": "U18G",
+      "name": "NAB League Girls (Legacy)"
+    },
+    "season": { "id": 9, "year": 2020 },
+    "rounds": [
+      {
+        "id": 349,
+        "providerId": "CD_R202057401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2020-02-28T23:15:00.000+0000",
+        "utcEndTime": "2020-03-01T02:00:00.000+0000"
+      },
+      {
+        "id": 350,
+        "providerId": "CD_R202057402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2020-03-07T00:30:00.000+0000",
+        "utcEndTime": "2020-03-07T02:45:00.000+0000"
+      },
+      {
+        "id": 351,
+        "providerId": "CD_R202057403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2020-03-14T00:00:00.000+0000",
+        "utcEndTime": "2020-03-15T02:00:00.000+0000"
+      },
+      {
+        "id": 352,
+        "providerId": "CD_R202057404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 353,
+        "providerId": "CD_R202057405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 354,
+        "providerId": "CD_R202057406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 355,
+        "providerId": "CD_R202057407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 356,
+        "providerId": "CD_R202057408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 357,
+        "providerId": "CD_R202057409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 358,
+        "providerId": "CD_R202057410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 27,
+    "providerId": "CD_S2020644",
+    "name": "NAB League Girls 2020",
+    "shortName": "NAB League Girls 2020",
+    "competition": {
+      "id": 6,
+      "providerId": "CD_C644",
+      "code": "U18G",
+      "name": "NAB League Girls"
+    },
+    "season": { "id": 9, "year": 2020 },
+    "rounds": [
+      {
+        "id": 359,
+        "providerId": "CD_R202064401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2020-02-28T23:15:00.000+0000",
+        "utcEndTime": "2020-03-01T02:00:00.000+0000"
+      },
+      {
+        "id": 360,
+        "providerId": "CD_R202064402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2020-03-07T00:30:00.000+0000",
+        "utcEndTime": "2020-03-07T02:45:00.000+0000"
+      },
+      {
+        "id": 361,
+        "providerId": "CD_R202064403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2020-03-14T00:00:00.000+0000",
+        "utcEndTime": "2020-03-15T02:00:00.000+0000"
+      },
+      {
+        "id": 362,
+        "providerId": "CD_R202064404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 363,
+        "providerId": "CD_R202064405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 364,
+        "providerId": "CD_R202064406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 365,
+        "providerId": "CD_R202064407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 366,
+        "providerId": "CD_R202064408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 367,
+        "providerId": "CD_R202064409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 368,
+        "providerId": "CD_R202064410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      }
+    ],
+    "currentRoundNumber": 3
+  },
+  {
+    "id": 28,
+    "providerId": "CD_S2020015",
+    "competition": { "id": 7, "providerId": "CD_C015", "name": "" },
+    "season": { "id": 9, "year": 2020 },
+    "rounds": [
+      {
+        "id": 369,
+        "providerId": "CD_R202001501",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 370,
+        "providerId": "CD_R202001502",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 371,
+        "providerId": "CD_R202001503",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 372,
+        "providerId": "CD_R202001504",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 373,
+        "providerId": "CD_R202001505",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 374,
+        "providerId": "CD_R202001506",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 375,
+        "providerId": "CD_R202001507",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 376,
+        "providerId": "CD_R202001508",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 377,
+        "providerId": "CD_R202001509",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 378,
+        "providerId": "CD_R202001510",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 379,
+        "providerId": "CD_R202001511",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 380,
+        "providerId": "CD_R202001512",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 381,
+        "providerId": "CD_R202001513",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 382,
+        "providerId": "CD_R202001514",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 383,
+        "providerId": "CD_R202001515",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 384,
+        "providerId": "CD_R202001516",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 385,
+        "providerId": "CD_R202001517",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 386,
+        "providerId": "CD_R202001518",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 387,
+        "providerId": "CD_R202001519",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 388,
+        "providerId": "CD_R202001520",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 389,
+        "providerId": "CD_R202001521",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 29,
+    "providerId": "CD_S2020136",
+    "competition": { "id": 8, "providerId": "CD_C136", "name": "" },
+    "season": { "id": 9, "year": 2020 },
+    "rounds": [
+      {
+        "id": 390,
+        "providerId": "CD_R202013601",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 391,
+        "providerId": "CD_R202013602",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 392,
+        "providerId": "CD_R202013603",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 393,
+        "providerId": "CD_R202013604",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 394,
+        "providerId": "CD_R202013605",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 395,
+        "providerId": "CD_R202013606",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 396,
+        "providerId": "CD_R202013607",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 397,
+        "providerId": "CD_R202013608",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 398,
+        "providerId": "CD_R202013609",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 399,
+        "providerId": "CD_R202013610",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 400,
+        "providerId": "CD_R202013611",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 401,
+        "providerId": "CD_R202013612",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 402,
+        "providerId": "CD_R202013613",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 403,
+        "providerId": "CD_R202013614",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 404,
+        "providerId": "CD_R202013615",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 405,
+        "providerId": "CD_R202013616",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 406,
+        "providerId": "CD_R202013617",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 407,
+        "providerId": "CD_R202013618",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 408,
+        "providerId": "CD_R202013619",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 409,
+        "providerId": "CD_R202013620",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 410,
+        "providerId": "CD_R202013621",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 30,
+    "providerId": "CD_S2020664",
+    "name": "2020 AFL State of Origin",
+    "shortName": "State of Origin",
+    "competition": {
+      "id": 9,
+      "providerId": "CD_C664",
+      "code": "AFL",
+      "name": "State of Origin"
+    },
+    "season": { "id": 9, "year": 2020 },
+    "rounds": [
+      {
+        "id": 411,
+        "providerId": "CD_R202066401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2020-02-28T08:50:00.000+0000",
+        "utcEndTime": "2020-02-28T08:50:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 31,
+    "providerId": "CD_S2020011",
+    "competition": { "id": 10, "providerId": "CD_C011", "name": "" },
+    "season": { "id": 9, "year": 2020 },
+    "rounds": [
+      {
+        "id": 412,
+        "providerId": "CD_R202001101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2020-03-21T02:00:00.000+0000",
+        "utcEndTime": "2020-03-22T04:00:00.000+0000"
+      },
+      {
+        "id": 413,
+        "providerId": "CD_R202001102",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2020-03-28T00:00:00.000+0000",
+        "utcEndTime": "2020-03-29T05:00:00.000+0000"
+      },
+      {
+        "id": 414,
+        "providerId": "CD_R202001103",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2020-04-03T23:00:00.000+0000",
+        "utcEndTime": "2020-04-05T06:00:00.000+0000"
+      },
+      {
+        "id": 415,
+        "providerId": "CD_R202001104",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2020-04-18T01:00:00.000+0000",
+        "utcEndTime": "2020-04-19T03:00:00.000+0000"
+      },
+      {
+        "id": 416,
+        "providerId": "CD_R202001105",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2020-04-25T00:30:00.000+0000",
+        "utcEndTime": "2020-04-26T02:30:00.000+0000"
+      },
+      {
+        "id": 417,
+        "providerId": "CD_R202001106",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2020-05-03T01:30:00.000+0000",
+        "utcEndTime": "2020-05-03T01:30:00.000+0000"
+      },
+      {
+        "id": 418,
+        "providerId": "CD_R202001107",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2020-05-09T01:00:00.000+0000",
+        "utcEndTime": "2020-05-10T04:00:00.000+0000"
+      },
+      {
+        "id": 419,
+        "providerId": "CD_R202001108",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2020-05-16T01:30:00.000+0000",
+        "utcEndTime": "2020-05-17T03:00:00.000+0000"
+      },
+      {
+        "id": 420,
+        "providerId": "CD_R202001109",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2020-05-30T00:30:00.000+0000",
+        "utcEndTime": "2020-05-31T04:15:00.000+0000"
+      },
+      {
+        "id": 421,
+        "providerId": "CD_R202001110",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2020-06-05T08:30:00.000+0000",
+        "utcEndTime": "2020-06-05T08:30:00.000+0000"
+      },
+      {
+        "id": 422,
+        "providerId": "CD_R202001111",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2020-06-13T01:00:00.000+0000",
+        "utcEndTime": "2020-06-14T03:30:00.000+0000"
+      },
+      {
+        "id": 423,
+        "providerId": "CD_R202001112",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [],
+        "utcStartTime": "2020-06-20T01:00:00.000+0000",
+        "utcEndTime": "2020-06-20T04:15:00.000+0000"
+      },
+      {
+        "id": 424,
+        "providerId": "CD_R202001113",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [],
+        "utcStartTime": "2020-06-20T02:00:00.000+0000",
+        "utcEndTime": "2020-06-28T03:30:00.000+0000"
+      },
+      {
+        "id": 425,
+        "providerId": "CD_R202001114",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [],
+        "utcStartTime": "2020-07-04T01:00:00.000+0000",
+        "utcEndTime": "2020-07-05T03:00:00.000+0000"
+      },
+      {
+        "id": 426,
+        "providerId": "CD_R202001115",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2020-07-11T02:00:00.000+0000",
+        "utcEndTime": "2020-07-11T02:00:00.000+0000"
+      },
+      {
+        "id": 427,
+        "providerId": "CD_R202001116",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2020-07-18T01:00:00.000+0000",
+        "utcEndTime": "2020-07-19T03:00:00.000+0000"
+      },
+      {
+        "id": 428,
+        "providerId": "CD_R202001117",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2020-07-25T00:30:00.000+0000",
+        "utcEndTime": "2020-07-26T03:30:00.000+0000"
+      },
+      {
+        "id": 429,
+        "providerId": "CD_R202001118",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2020-08-01T00:00:00.000+0000",
+        "utcEndTime": "2020-08-02T04:00:00.000+0000"
+      },
+      {
+        "id": 430,
+        "providerId": "CD_R202001119",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2020-08-15T00:00:00.000+0000",
+        "utcEndTime": "2020-08-16T05:00:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 32,
+    "providerId": "CD_S2021264",
+    "name": "2021 NAB AFLW Competition",
+    "shortName": "2021 AFL Womens",
+    "competition": {
+      "id": 3,
+      "providerId": "CD_C264",
+      "code": "AFLW",
+      "name": "AFL Women's"
+    },
+    "season": { "id": 10, "year": 2021 },
+    "rounds": [
+      {
+        "id": 449,
+        "providerId": "CD_R202126401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2021-01-28T08:15:00.000+0000",
+        "utcEndTime": "2021-01-31T05:10:00.000+0000"
+      },
+      {
+        "id": 450,
+        "providerId": "CD_R202126402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2021-02-05T08:45:00.000+0000",
+        "utcEndTime": "2021-02-07T08:15:00.000+0000"
+      },
+      {
+        "id": 486,
+        "providerId": "CD_R202126403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2021-02-12T08:10:00.000+0000",
+        "utcEndTime": "2021-02-14T04:10:00.000+0000"
+      },
+      {
+        "id": 487,
+        "providerId": "CD_R202126404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 488,
+        "providerId": "CD_R202126405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 489,
+        "providerId": "CD_R202126406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 490,
+        "providerId": "CD_R202126407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 491,
+        "providerId": "CD_R202126408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      },
+      {
+        "id": 492,
+        "providerId": "CD_R202126409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "",
+        "utcEndTime": ""
+      }
+    ],
+    "currentRoundNumber": 3
+  },
+  {
+    "id": 33,
+    "providerId": "CD_S2021101",
+    "name": "2021 AAMI Community Series",
+    "shortName": "AAMI Community Series",
+    "competition": {
+      "id": 2,
+      "providerId": "CD_C101",
+      "code": "AFL",
+      "name": "AAMI Community Series"
+    },
+    "season": { "id": 10, "year": 2021 },
+    "rounds": [
+      {
+        "id": 458,
+        "providerId": "CD_R202110101",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2021-03-04T08:10:00.000+0000",
+        "utcEndTime": "2021-03-08T04:10:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 34,
+    "providerId": "CD_S2021014",
+    "name": "2021 Toyota AFL Premiership",
+    "shortName": "Premiership",
+    "competition": {
+      "id": 1,
+      "providerId": "CD_C014",
+      "code": "AFL",
+      "name": "Toyota AFL Premiership"
+    },
+    "season": { "id": 10, "year": 2021 },
+    "rounds": [
+      {
+        "id": 461,
+        "providerId": "CD_R202101401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2021-03-18T08:25:00.000+0000",
+        "utcEndTime": "2021-03-21T07:10:00.000+0000"
+      },
+      {
+        "id": 462,
+        "providerId": "CD_R202101402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2021-03-25T08:20:00.000+0000",
+        "utcEndTime": "2021-03-28T07:10:00.000+0000"
+      },
+      {
+        "id": 463,
+        "providerId": "CD_R202101403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2021-04-01T08:40:00.000+0000",
+        "utcEndTime": "2021-04-05T05:20:00.000+0000"
+      },
+      {
+        "id": 464,
+        "providerId": "CD_R202101404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2021-04-08T09:20:00.000+0000",
+        "utcEndTime": "2021-04-11T06:40:00.000+0000"
+      },
+      {
+        "id": 465,
+        "providerId": "CD_R202101405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2021-04-15T09:20:00.000+0000",
+        "utcEndTime": "2021-04-18T06:40:00.000+0000"
+      },
+      {
+        "id": 466,
+        "providerId": "CD_R202101406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2021-04-23T09:20:00.000+0000",
+        "utcEndTime": "2021-04-25T08:40:00.000+0000"
+      },
+      {
+        "id": 467,
+        "providerId": "CD_R202101407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2021-05-01T02:00:00.000+0000",
+        "utcEndTime": "2021-05-01T04:00:00.000+0000"
+      },
+      {
+        "id": 468,
+        "providerId": "CD_R202101408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2021-05-08T02:00:00.000+0000",
+        "utcEndTime": "2021-05-08T04:00:00.000+0000"
+      },
+      {
+        "id": 469,
+        "providerId": "CD_R202101409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2021-05-15T02:00:00.000+0000",
+        "utcEndTime": "2021-05-15T04:00:00.000+0000"
+      },
+      {
+        "id": 470,
+        "providerId": "CD_R202101410",
+        "abbreviation": "Rd 10",
+        "name": "Round 10",
+        "roundNumber": 10,
+        "byes": [],
+        "utcStartTime": "2021-05-22T02:00:00.000+0000",
+        "utcEndTime": "2021-05-22T04:00:00.000+0000"
+      },
+      {
+        "id": 471,
+        "providerId": "CD_R202101411",
+        "abbreviation": "Rd 11",
+        "name": "Round 11",
+        "roundNumber": 11,
+        "byes": [],
+        "utcStartTime": "2021-05-29T02:00:00.000+0000",
+        "utcEndTime": "2021-05-29T04:00:00.000+0000"
+      },
+      {
+        "id": 472,
+        "providerId": "CD_R202101412",
+        "abbreviation": "Rd 12",
+        "name": "Round 12",
+        "roundNumber": 12,
+        "byes": [
+          {
+            "id": 4,
+            "providerId": "CD_T1000",
+            "name": "Gold Coast Suns",
+            "abbreviation": "GCFC",
+            "nickname": "Suns",
+            "club": {
+              "id": 9,
+              "providerId": "CD_O14",
+              "name": "Gold Coast Suns",
+              "abbreviation": "Suns",
+              "nickname": "Suns"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 6,
+            "providerId": "CD_T100",
+            "name": "North Melbourne",
+            "abbreviation": "NMFC",
+            "nickname": "Kangaroos",
+            "club": {
+              "id": 20,
+              "providerId": "CD_O20",
+              "name": "North Melbourne",
+              "abbreviation": "Kangaroos",
+              "nickname": "Kangaroos"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 7,
+            "providerId": "CD_T110",
+            "name": "Port Adelaide",
+            "abbreviation": "PORT",
+            "nickname": "Power",
+            "club": {
+              "id": 19,
+              "providerId": "CD_O24",
+              "name": "Port Adelaide",
+              "abbreviation": "Power",
+              "nickname": "Power"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 9,
+            "providerId": "CD_T80",
+            "name": "Hawthorn",
+            "abbreviation": "HAW",
+            "nickname": "Hawks",
+            "club": {
+              "id": 16,
+              "providerId": "CD_O17",
+              "name": "Hawthorn",
+              "abbreviation": "Hawks",
+              "nickname": "Hawks"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 10,
+            "providerId": "CD_T70",
+            "name": "Geelong Cats",
+            "abbreviation": "GEEL",
+            "nickname": "Cats",
+            "club": {
+              "id": 15,
+              "providerId": "CD_O11",
+              "name": "Geelong Cats",
+              "abbreviation": "Cats",
+              "nickname": "Cats"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 15,
+            "providerId": "CD_T1010",
+            "name": "GWS Giants",
+            "abbreviation": "GWS",
+            "nickname": "Giants",
+            "club": {
+              "id": 5,
+              "providerId": "CD_O16",
+              "name": "GWS Giants",
+              "abbreviation": "Giants",
+              "nickname": "Giants"
+            },
+            "teamType": "MEN"
+          }
+        ],
+        "utcStartTime": "2021-06-05T02:00:00.000+0000",
+        "utcEndTime": "2021-06-05T04:00:00.000+0000"
+      },
+      {
+        "id": 473,
+        "providerId": "CD_R202101413",
+        "abbreviation": "Rd 13",
+        "name": "Round 13",
+        "roundNumber": 13,
+        "byes": [
+          {
+            "id": 2,
+            "providerId": "CD_T20",
+            "name": "Brisbane Lions",
+            "abbreviation": "BL",
+            "nickname": "Lions",
+            "club": {
+              "id": 13,
+              "providerId": "CD_O3",
+              "name": "Brisbane Lions",
+              "abbreviation": "Lions",
+              "nickname": "Lions"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 5,
+            "providerId": "CD_T30",
+            "name": "Carlton",
+            "abbreviation": "CARL",
+            "nickname": "Blues",
+            "club": {
+              "id": 1,
+              "providerId": "CD_O5",
+              "name": "Carlton",
+              "abbreviation": "Blues",
+              "nickname": "Blues"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 8,
+            "providerId": "CD_T140",
+            "name": "Western Bulldogs",
+            "abbreviation": "WB",
+            "nickname": "Bulldogs",
+            "club": {
+              "id": 25,
+              "providerId": "CD_O31",
+              "name": "Western Bulldogs",
+              "abbreviation": "Bulldogs",
+              "nickname": "Bulldogs"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 12,
+            "providerId": "CD_T50",
+            "name": "Essendon",
+            "abbreviation": "ESS",
+            "nickname": "Bombers",
+            "club": {
+              "id": 10,
+              "providerId": "CD_O9",
+              "name": "Essendon",
+              "abbreviation": "Bombers",
+              "nickname": "Bombers"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 16,
+            "providerId": "CD_T120",
+            "name": "Richmond",
+            "abbreviation": "RICH",
+            "nickname": "Tigers",
+            "club": {
+              "id": 22,
+              "providerId": "CD_O25",
+              "name": "Richmond",
+              "abbreviation": "Tigers",
+              "nickname": "Tigers"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 18,
+            "providerId": "CD_T150",
+            "name": "West Coast Eagles",
+            "abbreviation": "WCE",
+            "nickname": "Eagles",
+            "club": {
+              "id": 23,
+              "providerId": "CD_O30",
+              "name": "West Coast Eagles",
+              "abbreviation": "Eagles",
+              "nickname": "Eagles"
+            },
+            "teamType": "MEN"
+          }
+        ],
+        "utcStartTime": "2021-06-12T02:00:00.000+0000",
+        "utcEndTime": "2021-06-12T04:00:00.000+0000"
+      },
+      {
+        "id": 474,
+        "providerId": "CD_R202101414",
+        "abbreviation": "Rd 14",
+        "name": "Round 14",
+        "roundNumber": 14,
+        "byes": [
+          {
+            "id": 1,
+            "providerId": "CD_T10",
+            "name": "Adelaide Crows",
+            "abbreviation": "ADEL",
+            "nickname": "Crows",
+            "club": {
+              "id": 3,
+              "providerId": "CD_O1",
+              "name": "Adelaide Crows",
+              "abbreviation": "Crows",
+              "nickname": "Crows"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 3,
+            "providerId": "CD_T40",
+            "name": "Collingwood",
+            "abbreviation": "COLL",
+            "nickname": "Magpies",
+            "club": {
+              "id": 12,
+              "providerId": "CD_O6",
+              "name": "Collingwood",
+              "abbreviation": "Magpies",
+              "nickname": "Magpies"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 11,
+            "providerId": "CD_T130",
+            "name": "St Kilda",
+            "abbreviation": "STK",
+            "nickname": "Saints",
+            "club": {
+              "id": 21,
+              "providerId": "CD_O27",
+              "name": "St Kilda",
+              "abbreviation": "Saints",
+              "nickname": "Saints"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 13,
+            "providerId": "CD_T160",
+            "name": "Sydney Swans",
+            "abbreviation": "SYD",
+            "nickname": "Swans",
+            "club": {
+              "id": 24,
+              "providerId": "CD_O28",
+              "name": "Sydney Swans",
+              "abbreviation": "Swans",
+              "nickname": "Swans"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 14,
+            "providerId": "CD_T60",
+            "name": "Fremantle",
+            "abbreviation": "FRE",
+            "nickname": "Dockers",
+            "club": {
+              "id": 6,
+              "providerId": "CD_O10",
+              "name": "Fremantle",
+              "abbreviation": "Dockers",
+              "nickname": "Dockers"
+            },
+            "teamType": "MEN"
+          },
+          {
+            "id": 17,
+            "providerId": "CD_T90",
+            "name": "Melbourne",
+            "abbreviation": "MELB",
+            "nickname": "Demons",
+            "club": {
+              "id": 14,
+              "providerId": "CD_O18",
+              "name": "Melbourne",
+              "abbreviation": "Demons",
+              "nickname": "Demons"
+            },
+            "teamType": "MEN"
+          }
+        ],
+        "utcStartTime": "2021-06-19T02:00:00.000+0000",
+        "utcEndTime": "2021-06-19T04:00:00.000+0000"
+      },
+      {
+        "id": 475,
+        "providerId": "CD_R202101415",
+        "abbreviation": "Rd 15",
+        "name": "Round 15",
+        "roundNumber": 15,
+        "byes": [],
+        "utcStartTime": "2021-06-26T02:00:00.000+0000",
+        "utcEndTime": "2021-06-26T04:00:00.000+0000"
+      },
+      {
+        "id": 476,
+        "providerId": "CD_R202101416",
+        "abbreviation": "Rd 16",
+        "name": "Round 16",
+        "roundNumber": 16,
+        "byes": [],
+        "utcStartTime": "2021-07-03T02:00:00.000+0000",
+        "utcEndTime": "2021-07-03T04:00:00.000+0000"
+      },
+      {
+        "id": 477,
+        "providerId": "CD_R202101417",
+        "abbreviation": "Rd 17",
+        "name": "Round 17",
+        "roundNumber": 17,
+        "byes": [],
+        "utcStartTime": "2021-07-10T02:00:00.000+0000",
+        "utcEndTime": "2021-07-10T04:00:00.000+0000"
+      },
+      {
+        "id": 478,
+        "providerId": "CD_R202101418",
+        "abbreviation": "Rd 18",
+        "name": "Round 18",
+        "roundNumber": 18,
+        "byes": [],
+        "utcStartTime": "2021-07-17T02:00:00.000+0000",
+        "utcEndTime": "2021-07-17T04:00:00.000+0000"
+      },
+      {
+        "id": 479,
+        "providerId": "CD_R202101419",
+        "abbreviation": "Rd 19",
+        "name": "Round 19",
+        "roundNumber": 19,
+        "byes": [],
+        "utcStartTime": "2021-07-24T02:00:00.000+0000",
+        "utcEndTime": "2021-07-24T04:00:00.000+0000"
+      },
+      {
+        "id": 480,
+        "providerId": "CD_R202101420",
+        "abbreviation": "Rd 20",
+        "name": "Round 20",
+        "roundNumber": 20,
+        "byes": [],
+        "utcStartTime": "2021-07-31T02:00:00.000+0000",
+        "utcEndTime": "2021-07-31T04:00:00.000+0000"
+      },
+      {
+        "id": 481,
+        "providerId": "CD_R202101421",
+        "abbreviation": "Rd 21",
+        "name": "Round 21",
+        "roundNumber": 21,
+        "byes": [],
+        "utcStartTime": "2021-08-07T02:00:00.000+0000",
+        "utcEndTime": "2021-08-07T04:00:00.000+0000"
+      },
+      {
+        "id": 482,
+        "providerId": "CD_R202101422",
+        "abbreviation": "Rd 22",
+        "name": "Round 22",
+        "roundNumber": 22,
+        "byes": [],
+        "utcStartTime": "2021-08-14T02:00:00.000+0000",
+        "utcEndTime": "2021-08-14T04:00:00.000+0000"
+      },
+      {
+        "id": 483,
+        "providerId": "CD_R202101423",
+        "abbreviation": "Rd 23",
+        "name": "Round 23",
+        "roundNumber": 23,
+        "byes": [],
+        "utcStartTime": "2021-08-21T02:00:00.000+0000",
+        "utcEndTime": "2021-08-21T02:30:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 1
+  },
+  {
+    "id": 35,
+    "providerId": "CD_S2021644",
+    "name": "NAB League Girls 2021",
+    "shortName": "NAB League Girls 2021",
+    "competition": {
+      "id": 6,
+      "providerId": "CD_C644",
+      "code": "U18G",
+      "name": "NAB League Girls"
+    },
+    "season": { "id": 10, "year": 2021 },
+    "rounds": [
+      {
+        "id": 493,
+        "providerId": "CD_R202164401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2021-02-06T01:00:00.000+0000",
+        "utcEndTime": "2021-02-07T01:45:00.000+0000"
+      },
+      {
+        "id": 494,
+        "providerId": "CD_R202164402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2021-02-12T23:00:00.000+0000",
+        "utcEndTime": "2021-02-14T01:30:00.000+0000"
+      },
+      {
+        "id": 495,
+        "providerId": "CD_R202164403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2021-02-19T23:00:00.000+0000",
+        "utcEndTime": "2021-02-21T00:00:00.000+0000"
+      },
+      {
+        "id": 496,
+        "providerId": "CD_R202164404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2021-02-26T23:30:00.000+0000",
+        "utcEndTime": "2021-02-28T00:30:00.000+0000"
+      },
+      {
+        "id": 497,
+        "providerId": "CD_R202164405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2021-03-05T08:30:00.000+0000",
+        "utcEndTime": "2021-03-07T01:00:00.000+0000"
+      },
+      {
+        "id": 498,
+        "providerId": "CD_R202164406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2021-03-12T13:00:00.000+0000",
+        "utcEndTime": "2021-03-14T03:30:00.000+0000"
+      },
+      {
+        "id": 499,
+        "providerId": "CD_R202164407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2021-03-19T13:00:00.000+0000",
+        "utcEndTime": "2021-03-21T00:30:00.000+0000"
+      },
+      {
+        "id": 500,
+        "providerId": "CD_R202164408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2021-03-26T13:00:00.000+0000",
+        "utcEndTime": "2021-03-28T00:00:00.000+0000"
+      },
+      {
+        "id": 501,
+        "providerId": "CD_R202164409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2021-04-23T14:00:00.000+0000",
+        "utcEndTime": "2021-04-25T03:00:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 2
+  },
+  {
+    "id": 36,
+    "providerId": "CD_S2021574",
+    "name": "NAB League Girls (Legacy)",
+    "shortName": "NAB League Girls (Legacy)",
+    "competition": {
+      "id": 5,
+      "providerId": "CD_C574",
+      "code": "U18G",
+      "name": "NAB League Girls (Legacy)"
+    },
+    "season": { "id": 10, "year": 2021 },
+    "rounds": [
+      {
+        "id": 502,
+        "providerId": "CD_R202157401",
+        "abbreviation": "Rd 1",
+        "name": "Round 1",
+        "roundNumber": 1,
+        "byes": [],
+        "utcStartTime": "2021-02-06T01:00:00.000+0000",
+        "utcEndTime": "2021-02-07T01:45:00.000+0000"
+      },
+      {
+        "id": 503,
+        "providerId": "CD_R202157402",
+        "abbreviation": "Rd 2",
+        "name": "Round 2",
+        "roundNumber": 2,
+        "byes": [],
+        "utcStartTime": "2021-02-12T23:00:00.000+0000",
+        "utcEndTime": "2021-02-14T01:15:00.000+0000"
+      },
+      {
+        "id": 504,
+        "providerId": "CD_R202157403",
+        "abbreviation": "Rd 3",
+        "name": "Round 3",
+        "roundNumber": 3,
+        "byes": [],
+        "utcStartTime": "2021-02-19T23:00:00.000+0000",
+        "utcEndTime": "2021-02-21T00:00:00.000+0000"
+      },
+      {
+        "id": 505,
+        "providerId": "CD_R202157404",
+        "abbreviation": "Rd 4",
+        "name": "Round 4",
+        "roundNumber": 4,
+        "byes": [],
+        "utcStartTime": "2021-02-26T23:30:00.000+0000",
+        "utcEndTime": "2021-02-28T00:30:00.000+0000"
+      },
+      {
+        "id": 506,
+        "providerId": "CD_R202157405",
+        "abbreviation": "Rd 5",
+        "name": "Round 5",
+        "roundNumber": 5,
+        "byes": [],
+        "utcStartTime": "2021-03-05T08:30:00.000+0000",
+        "utcEndTime": "2021-03-07T01:00:00.000+0000"
+      },
+      {
+        "id": 507,
+        "providerId": "CD_R202157406",
+        "abbreviation": "Rd 6",
+        "name": "Round 6",
+        "roundNumber": 6,
+        "byes": [],
+        "utcStartTime": "2021-03-12T13:00:00.000+0000",
+        "utcEndTime": "2021-03-14T03:30:00.000+0000"
+      },
+      {
+        "id": 508,
+        "providerId": "CD_R202157407",
+        "abbreviation": "Rd 7",
+        "name": "Round 7",
+        "roundNumber": 7,
+        "byes": [],
+        "utcStartTime": "2021-03-19T13:00:00.000+0000",
+        "utcEndTime": "2021-03-21T00:30:00.000+0000"
+      },
+      {
+        "id": 509,
+        "providerId": "CD_R202157408",
+        "abbreviation": "Rd 8",
+        "name": "Round 8",
+        "roundNumber": 8,
+        "byes": [],
+        "utcStartTime": "2021-03-26T13:00:00.000+0000",
+        "utcEndTime": "2021-03-28T00:00:00.000+0000"
+      },
+      {
+        "id": 510,
+        "providerId": "CD_R202157409",
+        "abbreviation": "Rd 9",
+        "name": "Round 9",
+        "roundNumber": 9,
+        "byes": [],
+        "utcStartTime": "2021-04-23T14:00:00.000+0000",
+        "utcEndTime": "2021-04-25T03:00:00.000+0000"
+      }
+    ],
+    "currentRoundNumber": 1
+  }
+]
