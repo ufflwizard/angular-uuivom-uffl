@@ -1,0 +1,23 @@
+[
+  {
+    "id":13,
+    "email":"nik@testkitchen.onmicrosoft.com",
+    "firstName":"Nik",
+    "lastName":"Rtshiladze",
+    "teamName":"The Eggman Cometh"
+  },
+  {
+    "id":14,
+    "email":"james@testkitchen.onmicrosoft.com",
+    "firstName":"James",
+    "lastName":"Cubbage",
+    "teamName":"cub scouts idk lol"
+  },
+  {
+    "id":10,
+    "email":"emily@testkitchen.onmicrosoft.com",
+    "firstName":"Emily",
+    "lastName":"Rtshiladze",
+    "teamName":"crash test dummies"
+  }
+]

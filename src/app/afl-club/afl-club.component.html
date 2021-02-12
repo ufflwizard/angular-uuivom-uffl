@@ -1,0 +1,6 @@
+<h3>Clubs</h3>
+
+<div class="shipping-item" *ngFor="let club of clubs | async">
+	<span>{{ club.name }}</span>
+	<span>{{ club.providerId }}</span>
+</div>

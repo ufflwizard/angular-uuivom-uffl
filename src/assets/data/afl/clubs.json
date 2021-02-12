@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "providerId": "CD_O5",
+    "name": "Carlton",
+    "abbreviation": "Blues",
+    "nickname": "Blues"
+  },
+  {
+    "id": 3,
+    "providerId": "CD_O1",
+    "name": "Adelaide Crows",
+    "abbreviation": "Crows",
+    "nickname": "Crows"
+  },
+  {
+    "id": 5,
+    "providerId": "CD_O16",
+    "name": "GWS Giants",
+    "abbreviation": "Giants",
+    "nickname": "Giants"
+  },
+  {
+    "id": 6,
+    "providerId": "CD_O10",
+    "name": "Fremantle",
+    "abbreviation": "Dockers",
+    "nickname": "Dockers"
+  },
+  {
+    "id": 9,
+    "providerId": "CD_O14",
+    "name": "Gold Coast Suns",
+    "abbreviation": "Suns",
+    "nickname": "Suns"
+  },
+  {
+    "id": 10,
+    "providerId": "CD_O9",
+    "name": "Essendon",
+    "abbreviation": "Bombers",
+    "nickname": "Bombers"
+  },
+  {
+    "id": 12,
+    "providerId": "CD_O6",
+    "name": "Collingwood",
+    "abbreviation": "Magpies",
+    "nickname": "Magpies"
+  },
+  {
+    "id": 13,
+    "providerId": "CD_O3",
+    "name": "Brisbane Lions",
+    "abbreviation": "Lions",
+    "nickname": "Lions"
+  },
+  {
+    "id": 14,
+    "providerId": "CD_O18",
+    "name": "Melbourne",
+    "abbreviation": "Demons",
+    "nickname": "Demons"
+  },
+  {
+    "id": 15,
+    "providerId": "CD_O11",
+    "name": "Geelong Cats",
+    "abbreviation": "Cats",
+    "nickname": "Cats"
+  },
+  {
+    "id": 16,
+    "providerId": "CD_O17",
+    "name": "Hawthorn",
+    "abbreviation": "Hawks",
+    "nickname": "Hawks"
+  },
+  {
+    "id": 19,
+    "providerId": "CD_O24",
+    "name": "Port Adelaide",
+    "abbreviation": "Power",
+    "nickname": "Power"
+  },
+  {
+    "id": 20,
+    "providerId": "CD_O20",
+    "name": "North Melbourne",
+    "abbreviation": "Kangaroos",
+    "nickname": "Kangaroos"
+  },
+  {
+    "id": 21,
+    "providerId": "CD_O27",
+    "name": "St Kilda",
+    "abbreviation": "Saints",
+    "nickname": "Saints"
+  },
+  {
+    "id": 22,
+    "providerId": "CD_O25",
+    "name": "Richmond",
+    "abbreviation": "Tigers",
+    "nickname": "Tigers"
+  },
+  {
+    "id": 23,
+    "providerId": "CD_O30",
+    "name": "West Coast Eagles",
+    "abbreviation": "Eagles",
+    "nickname": "Eagles"
+  },
+  {
+    "id": 24,
+    "providerId": "CD_O28",
+    "name": "Sydney Swans",
+    "abbreviation": "Swans",
+    "nickname": "Swans"
+  },
+  {
+    "id": 25,
+    "providerId": "CD_O31",
+    "name": "Western Bulldogs",
+    "abbreviation": "Bulldogs",
+    "nickname": "Bulldogs"
+  }
+]
