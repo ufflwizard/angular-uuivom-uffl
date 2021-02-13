@@ -8,7 +8,7 @@ import { AflService } from "../afl.service";
   styleUrls: ["./afl-token.component.css"]
 })
 export class AflTokenComponent implements OnInit {
-  token = this.aflService.getToken();
+  // token = this.aflService.getToken();
   constructor(private aflService: AflService) {}
 
   ngOnInit() {}

@@ -12,7 +12,7 @@ import { AflService } from "../afl.service";
 // https://angular.io/guide/router
 export class ProductListComponent implements OnInit {
   products = products;
-  token = this.aflService.getToken();
+  // token = this.aflService.getToken();
 
   constructor(private aflService: AflService) {}
 

@@ -1,7 +1,18 @@
-<a [routerLink]="['/']">
-	<h1>Agon</h1>
-</a>
-
-<a routerLink="/cart" class="button fancy-button">
-	<i class="material-icons">shopping_cart</i>Checkout
-</a>
+<mat-toolbar>
+	<button mat-icon-button class="icon" aria-label="menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+	<a [routerLink]="['/']">
+		<h1>Agon</h1>
+	</a>
+	<span class="spacer"></span>
+	<button mat-icon-button class="favorite-icon" aria-label="heart icon">
+    <mat-icon>favorite</mat-icon>
+  </button>
+	<button mat-icon-button class="icon" aria-label="share icon">
+    <mat-icon>share</mat-icon>
+  </button>
+	<a routerLink="/cart" class="button fancy-button">
+		<i class="material-icons">shopping_cart</i>Checkout
+	</a>
+</mat-toolbar>

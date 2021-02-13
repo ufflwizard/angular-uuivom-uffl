@@ -4,6 +4,7 @@ import { RouterModule } from "@angular/router";
 import { ReactiveFormsModule } from "@angular/forms";
 import { HttpClientModule } from "@angular/common/http";
 
+import { MaterialModule } from "./material/material.module";
 import { AppComponent } from "./app.component";
 import { TopBarComponent } from "./top-bar/top-bar.component";
 import { ProductListComponent } from "./product-list/product-list.component";
@@ -23,6 +24,7 @@ import { AflClubComponent } from "./afl-club/afl-club.component";
     BrowserModule,
     HttpClientModule,
     ReactiveFormsModule,
+    MaterialModule,
     RouterModule.forRoot([
       { path: "", component: ProductListComponent },
       { path: "products/:productId", component: ProductDetailsComponent },
