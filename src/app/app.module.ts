@@ -29,7 +29,7 @@ import { AflClubComponent } from "./afl-club/afl-club.component";
       { path: "cart", component: CartComponent },
       { path: "shipping", component: ShippingComponent },
       { path: "clubs", component: AflClubComponent },
-      { path: "competition", component: AflCompetitionComponent },
+      { path: "competitions", component: AflCompetitionComponent },
       // 404 needs to be last or it'll override other paths
       { path: "**", component: PageNotFoundComponent }
     ])

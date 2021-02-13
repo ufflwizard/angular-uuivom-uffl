@@ -14,6 +14,10 @@ export class AflService {
     return this.http.get("/assets/data/afl/clubs.json");
   }
 
+  getCompetitions() {
+    return this.http.get("/assets/data/afl/competitions.json");
+  }
+
   getToken() {
     this.http
       .post<any>("https://api.afl.com.au/cfs/afl/WMCTok", {})
@@ -23,7 +27,7 @@ export class AflService {
     return this.token;
   }
 
-  getCompetitions() {
+  getFromAflApi() {
     // https://angular.io/guide/http
     // https://angular.io/api/common/AsyncPipe
     // https://web.dev/cross-origin-resource-sharing/
