@@ -1,18 +1,32 @@
 <mat-toolbar>
-	<button mat-icon-button class="icon" aria-label="menu icon">
-    <mat-icon>menu</mat-icon>
-  </button>
-	<a [routerLink]="['/']">
-		<h1>Agon</h1>
-	</a>
+	<span class="fill-remaining-space">
+    <button mat-icon-button [matMenuTriggerFor]="menu">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <mat-menu #menu="matMenu" [overlapTrigger]="false">
+      <button mat-menu-item>
+        <mat-icon>home</mat-icon>
+        <span>Home</span>
+	</button>
+	<button mat-menu-item>
+        <mat-icon>people_outline</mat-icon>
+        <span>Connecting</span>
+      </button>
+	<button mat-menu-item>
+        <mat-icon>videocam</mat-icon>
+        <span>Let's talk</span>
+      </button>
+	<button mat-menu-item>
+        <mat-icon>exit_to_app</mat-icon>
+        <span>Logout</span>
+      </button>
+	</mat-menu>
+	</span>
+	<span class="fill-remaining-space"><a [routerLink]="['/']">
+    Agon
+	</a></span>
 	<span class="spacer"></span>
-	<button mat-icon-button class="favorite-icon" aria-label="heart icon">
-    <mat-icon>favorite</mat-icon>
+	<button mat-icon-button routerLink="/cart" class="icon" aria-label="cart icon">
+    <mat-icon>shopping_cart</mat-icon>
   </button>
-	<button mat-icon-button class="icon" aria-label="share icon">
-    <mat-icon>share</mat-icon>
-  </button>
-	<a routerLink="/cart" class="button fancy-button">
-		<i class="material-icons">shopping_cart</i>Checkout
-	</a>
 </mat-toolbar>
